@@ -1,0 +1,4526 @@
+{
+  "name": "Environment Protection and Biodiversity Conservation Act 1999",
+  "children": [
+    {
+      "name": "CHAPTER 1--Preliminary",
+      "children": [ {
+        "name": "PART 1--PRELIMINARY",
+        "children": [
+          {
+            "name": "1. Short title"
+          },
+          {
+            "name": "2. Commencement"
+          },
+          {
+            "name": "3. Objects of Act"
+          },
+          {
+            "name": "3A. Principles of ecologically sustainable development"
+          },
+          {
+            "name": "4. Act to bind Crown"
+          },
+          {
+            "name": "5. Application of Act"
+          },
+          {
+            "name": "6. Extended application of Act to match extended management of fisheries under the Fisheries Management Act 1991"
+          },
+          {
+            "name": "7. Application of the Criminal Code"
+          },
+          {
+            "name": "8. Native title rights not affected"
+          },
+          {
+            "name": "9. Relationship with other Acts"
+          },
+          {
+            "name": "10. Relationship with State law"
+          }
+        ]
+      }
+      ]
+    },
+    {
+      "name": "CHAPTER 2--Protecting the environment",
+      "children": [
+        {
+          "name": "PART 2--SIMPLIFIED OUTLINE OF THIS CHAPTER",
+          "children": [ {
+            "name": "11. Simplified outline of this Chapter"
+          }
+          ]
+        },
+        {
+          "name": "PART 3--REQUIREMENTS FOR ENVIRONMENTAL APPROVALS",
+          "children": [
+            {
+              "name": "Division 1--Requirements relating to matters of national environmental significance",
+              "children": [
+                {
+                  "name": "Subdivision A--World Heritage",
+                  "children": [
+                    {
+                      "name": "12. Requirement for approval of activities with a significant impact on a declared World Heritage property"
+                    },
+                    {
+                      "name": "13. What is a declared World Heritage property?"
+                    },
+                    {
+                      "name": "14. Declaring a property to be a declared World Heritage property"
+                    },
+                    {
+                      "name": "15. Amending or revoking a declaration of a declared World Heritage property"
+                    },
+                    {
+                      "name": "15A. Offences relating to declared World Heritage properties"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision AA--National Heritage",
+                  "children": [
+                    {
+                      "name": "15B. Requirement for approval of activities with a significant impact on a National Heritage place"
+                    },
+                    {
+                      "name": "15C. Offences relating to National Heritage places"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision B--Wetlands of international importance",
+                  "children": [
+                    {
+                      "name": "16. Requirement for approval of activities with a significant impact on a declared Ramsar wetland"
+                    },
+                    {
+                      "name": "17. What is a declared Ramsar wetland?"
+                    },
+                    {
+                      "name": "17A. Making and revoking declarations of wetlands"
+                    },
+                    {
+                      "name": "17B. Offences relating to declared Ramsar wetlands"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision C--Listed threatened species and communities",
+                  "children": [
+                    {
+                      "name": "18. Actions with significant impact on listed threatened species or endangered community prohibited without approval"
+                    },
+                    {
+                      "name": "18A. Offences relating to threatened species etc."
+                    },
+                    {
+                      "name": "19. Certain actions relating to listed threatened species and listed threatened ecological communities not prohibited"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision D--Listed migratory species",
+                  "children": [
+                    {
+                      "name": "20. Requirement for approval of activities with a significant impact on a listed migratory species"
+                    },
+                    {
+                      "name": "20A. Offences relating to listed migratory species"
+                    },
+                    {
+                      "name": "20B. Certain actions relating to listed migratory species not prohibited"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision E--Protection of the environment from nuclear actions",
+                  "children": [
+                    {
+                      "name": "21. Requirement for approval of nuclear actions"
+                    },
+                    {
+                      "name": "22. What is a nuclear action?"
+                    },
+                    {
+                      "name": "22A. Offences relating to nuclear actions"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision F--Marine environment",
+                  "children": [
+                    {
+                      "name": "23. Requirement for approval of activities involving the marine environment"
+                    },
+                    {
+                      "name": "24. What is a Commonwealth marine area?"
+                    },
+                    {
+                      "name": "24A. Offences relating to marine areas"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision FA--Great Barrier Reef Marine Park",
+                  "children": [
+                    {
+                      "name": "24B. Requirement for approval of activities in the Great Barrier Reef Marine Park"
+                    },
+                    {
+                      "name": "24C. Offences relating to Great Barrier Reef Marine Park"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision FB--Protection of water resources from coal seam gas development and large coal mining development",
+                  "children": [
+                    {
+                      "name": "24D. Requirement for approval of developments with a significant impact on water resources"
+                    },
+                    {
+                      "name": "24E. Offences relating to water resources"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision G--Additional matters of national environmental significance",
+                  "children": [ {
+                    "name": "25. Requirement for approval of prescribed actions"
+                  }
+                  ]
+                },
+                {
+                  "name": "Subdivision H--Actions that are taken to be covered by this Division",
+                  "children": [ {
+                    "name": "25A. Actions that are taken to be covered by this Division"
+                  }
+                  ]
+                },
+                {
+                  "name": "Subdivision HA--Limitation on liability for actions of third parties",
+                  "children": [ {
+                    "name": "25AA. Limitation on liability for actions of third parties"
+                  }
+                  ]
+                },
+                {
+                  "name": "Subdivision I--Evidentiary certificates",
+                  "children": [
+                    {
+                      "name": "25B. Evidentiary certificates"
+                    },
+                    {
+                      "name": "25C. Certificate to be given to person"
+                    },
+                    {
+                      "name": "25D. Evidentiary effect of certificate"
+                    },
+                    {
+                      "name": "25E. Variation of certificate"
+                    },
+                    {
+                      "name": "25F. Revocation of certificate"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Division 2--Protection of the environment from proposals involving the Commonwealth",
+              "children": [
+                {
+                  "name": "Subdivision A--Protection of environment from actions involving Commonwealth land",
+                  "children": [
+                    {
+                      "name": "26. Requirement for approval of activities involving Commonwealth land"
+                    },
+                    {
+                      "name": "27. What is Commonwealth land?"
+                    },
+                    {
+                      "name": "27A. Offences relating to Commonwealth land"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision AA--Protection of Commonwealth Heritage places outside the Australian jurisdiction",
+                  "children": [
+                    {
+                      "name": "27B. Requirement for approval of actions with significant impact on Commonwealth Heritage places overseas"
+                    },
+                    {
+                      "name": "27C. Offences relating to Commonwealth Heritage places overseas"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision B--Protection of the environment from Commonwealth actions",
+                  "children": [ {
+                    "name": "28. Requirement for approval of activities of Commonwealth agencies significantly affecting the environment"
+                  }
+                  ]
+                },
+                {
+                  "name": "Subdivision C--Actions that are taken to be covered by this Division",
+                  "children": [ {
+                    "name": "28AA. Actions that are taken to be covered by this Division"
+                  }
+                  ]
+                },
+                {
+                  "name": "Subdivision D--Limitation on liability for actions of third parties",
+                  "children": [ {
+                    "name": "28AB. Limitation on liability for actions of third parties"
+                  }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PART 4--CASES IN WHICH ENVIRONMENTAL APPROVALS ARE NOT NEEDED",
+          "children": [
+            {
+              "name": "Division 1--Actions covered by bilateral agreements",
+              "children": [
+                {
+                  "name": "29. Actions declared by agreement not to need approval"
+                },
+                {
+                  "name": "30. Extended operation in State and Northern Territory waters"
+                },
+                {
+                  "name": "31. Extended operation in non-self-governing Territories"
+                }
+              ]
+            },
+            {
+              "name": "Division 2--Actions covered by Ministerial declarations and accredited management arrangements or accredited authorisation processes",
+              "children": [
+                {
+                  "name": "Subdivision A--Effect of declarations",
+                  "children": [ {
+                    "name": "32. Actions declared by Minister not to need approval"
+                  }
+                  ]
+                },
+                {
+                  "name": "Subdivision B--Making declarations",
+                  "children": [
+                    {
+                      "name": "33. Making declaration that actions do not need approval under Part 9"
+                    },
+                    {
+                      "name": "34. What is matter protected by a provision of Part 3?"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision C--Prerequisites for making declarations",
+                  "children": [
+                    {
+                      "name": "34A. Minister may only make declaration if prescribed criteria are met"
+                    },
+                    {
+                      "name": "34B. Declarations relating to declared World Heritage properties"
+                    },
+                    {
+                      "name": "34BA. Declarations relating to National Heritage places"
+                    },
+                    {
+                      "name": "34C. Declarations relating to declared Ramsar wetlands"
+                    },
+                    {
+                      "name": "34D. Declarations relating to listed threatened species and ecological communities"
+                    },
+                    {
+                      "name": "34E. Declarations relating to migratory species"
+                    },
+                    {
+                      "name": "34F. Declarations relating to Commonwealth Heritage places"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision D--Other rules about declarations",
+                  "children": [
+                    {
+                      "name": "35. Revoking declarations"
+                    },
+                    {
+                      "name": "36. Other rules about declarations"
+                    },
+                    {
+                      "name": "36A. Minor amendments of accredited management arrangement or accredited authorisation process"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Division 3--Actions covered by Ministerial declarations and bioregional plans",
+              "children": [
+                {
+                  "name": "Subdivision A--Effect of declarations",
+                  "children": [ {
+                    "name": "37. Actions declared by Minister not to need approval"
+                  }
+                  ]
+                },
+                {
+                  "name": "Subdivision B--Making declarations",
+                  "children": [ {
+                    "name": "37A. Making declarations that actions do not need approval under Part 9"
+                  }
+                  ]
+                },
+                {
+                  "name": "Subdivision C--Prerequisites for making declarations",
+                  "children": [
+                    {
+                      "name": "37B. General considerations"
+                    },
+                    {
+                      "name": "37C. Minister may make declaration only if prescribed criteria are met"
+                    },
+                    {
+                      "name": "37D. Declarations relating to declared World Heritage properties"
+                    },
+                    {
+                      "name": "37E. Declarations relating to National Heritage places"
+                    },
+                    {
+                      "name": "37F. Declarations relating to declared Ramsar wetlands"
+                    },
+                    {
+                      "name": "37G. Declarations relating to listed threatened species and ecological communities"
+                    },
+                    {
+                      "name": "37H. Declarations relating to listed migratory species"
+                    },
+                    {
+                      "name": "37J. No declarations relating to nuclear actions"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision D--Other rules about declarations",
+                  "children": [
+                    {
+                      "name": "37K. Revoking declarations"
+                    },
+                    {
+                      "name": "37L. Other rules about declarations"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Division 3A--Actions covered by conservation agreements",
+              "children": [ {
+                "name": "37M. Actions declared by conservation agreement not to need approval"
+              }
+              ]
+            },
+            {
+              "name": "Division 4--Forestry operations in certain regions",
+              "children": [
+                {
+                  "name": "Subdivision A--Regions covered by regional forest agreements",
+                  "children": [ {
+                    "name": "38. Part 3 not to apply to certain RFA forestry operations"
+                  }
+                  ]
+                },
+                {
+                  "name": "Subdivision B--Regions subject to a process of negotiating a regional forest agreement",
+                  "children": [
+                    {
+                      "name": "39. Object of this Subdivision"
+                    },
+                    {
+                      "name": "40. Forestry operations in regions not yet covered by regional forest agreements"
+                    },
+                    {
+                      "name": "41. What is an RFA region?"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision C--Limits on application",
+                  "children": [ {
+                    "name": "42. This Division does not apply to some forestry operations"
+                  }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Division 5--Actions in the",
+              "children": [ {
+                "name": "43. Actions taken in accordance with zoning plan"
+              }
+              ]
+            },
+            {
+              "name": "Division 6--Actions with prior authorisation",
+              "children": [
+                {
+                  "name": "43A. Actions with prior authorisation"
+                },
+                {
+                  "name": "43B. Actions which are lawful continuations of use of land etc."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CHAPTER 3--Bilateral agreements",
+      "children": [ {
+        "name": "PART 5--BILATERAL AGREEMENTS",
+        "children": [
+          {
+            "name": "Division 1--Object of Part",
+            "children": [ {
+              "name": "44. Object of this Part"
+            }
+            ]
+          },
+          {
+            "name": "Division 2--Making bilateral agreements",
+            "children": [
+              {
+                "name": "Subdivision A--Power to make bilateral agreements",
+                "children": [
+                  {
+                    "name": "45. Minister may make agreement"
+                  },
+                  {
+                    "name": "46. Agreement may declare actions do not need approval under Part 9"
+                  },
+                  {
+                    "name": "47. Agreement may declare classes of actions do not need assessment"
+                  },
+                  {
+                    "name": "48. Other provisions of bilateral agreements"
+                  },
+                  {
+                    "name": "48A. Mandatory provisions"
+                  },
+                  {
+                    "name": "49. Certain limits on scope of bilateral agreements"
+                  }
+                ]
+              },
+              {
+                "name": "Subdivision B--Prerequisites for making bilateral agreements",
+                "children": [
+                  {
+                    "name": "49A. Consultation on draft agreement"
+                  },
+                  {
+                    "name": "50. Minister may only enter into agreement if prescribed criteria are met"
+                  },
+                  {
+                    "name": "51. Agreements relating to declared World Heritage properties"
+                  },
+                  {
+                    "name": "51A. Agreements relating to National Heritage places"
+                  },
+                  {
+                    "name": "52. Agreements relating to declared Ramsar wetlands"
+                  },
+                  {
+                    "name": "53. Agreements relating to listed threatened species and ecological communities"
+                  },
+                  {
+                    "name": "54. Agreements relating to migratory species"
+                  },
+                  {
+                    "name": "55. Agreements relating to nuclear actions"
+                  },
+                  {
+                    "name": "56. Agreements relating to prescribed actions"
+                  }
+                ]
+              },
+              {
+                "name": "Subdivision C--Minor amendments of bilateral agreements",
+                "children": [ {
+                  "name": "56A. Ministerial determination of minor amendments to bilateral agreements"
+                }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Division 3--Suspending and ending the effect of bilateral agreements",
+            "children": [
+              {
+                "name": "Subdivision A--Suspension and cancellation of effect",
+                "children": [
+                  {
+                    "name": "57. Representations about suspension or cancellation"
+                  },
+                  {
+                    "name": "58. Consultation before cancellation or suspension"
+                  },
+                  {
+                    "name": "59. Suspension or cancellation"
+                  },
+                  {
+                    "name": "60. Emergency suspension of effect of bilateral agreement"
+                  },
+                  {
+                    "name": "61. Cancellation during suspension"
+                  },
+                  {
+                    "name": "62. Revocation of notice of suspension or cancellation"
+                  },
+                  {
+                    "name": "63. Cancellation or suspension at request of other party"
+                  },
+                  {
+                    "name": "64. Cancellation or suspension of bilateral agreement does not affect certain actions"
+                  }
+                ]
+              },
+              {
+                "name": "Subdivision B--Expiry of bilateral agreements",
+                "children": [
+                  {
+                    "name": "65. Expiry and review of bilateral agreements"
+                  },
+                  {
+                    "name": "65A. Expiry of bilateral agreement does not affect certain actions"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+      ]
+    },
+    {
+      "name": "CHAPTER 4--Environmental assessments and approvals",
+      "children": [
+        {
+          "name": "PART 6--SIMPLIFIED OUTLINE OF THIS CHAPTER",
+          "children": [ {
+            "name": "66. Simplified outline of this Chapter"
+          }
+          ]
+        },
+        {
+          "name": "PART 7--DECIDING WHETHER APPROVAL OF ACTIONS IS NEEDED",
+          "children": [
+            {
+              "name": "Division 1--Referral of proposals to take action",
+              "children": [
+                {
+                  "name": "67. What is a controlled action?"
+                },
+                {
+                  "name": "67A. Prohibition on taking controlled action without approval"
+                },
+                {
+                  "name": "68. Referral by person proposing to take action"
+                },
+                {
+                  "name": "68A. Actions proposed to be taken under a contract etc."
+                },
+                {
+                  "name": "69. State or Territory may refer proposal to Minister"
+                },
+                {
+                  "name": "70. Minister may request referral of proposal"
+                },
+                {
+                  "name": "71. Commonwealth agency may refer proposal to Minister"
+                },
+                {
+                  "name": "72. Form and content of referrals"
+                },
+                {
+                  "name": "73. Informing person proposing to take action of referral"
+                },
+                {
+                  "name": "73A. Informing Great Barrier Reef Marine Park Authority of proposal affecting Great Barrier Reef Marine Park"
+                },
+                {
+                  "name": "74. Inviting provision of information on referred proposal"
+                },
+                {
+                  "name": "74A. Minister may request referral of a larger action"
+                },
+                {
+                  "name": "74AA. Offence of taking action before decision made in relation to referral etc."
+                }
+              ]
+            },
+            {
+              "name": "Division 1A--Decision that action is clearly unacceptable",
+              "children": [
+                {
+                  "name": "74B. Application of this Division"
+                },
+                {
+                  "name": "74C. Informing person proposing to take action that action is clearly unacceptable"
+                },
+                {
+                  "name": "74D. Procedure if Minister is requested to reconsider referral"
+                }
+              ]
+            },
+            {
+              "name": "Division 2--Ministerial decision whether action needs approval",
+              "children": [
+                {
+                  "name": "75. Does the proposed action need approval?"
+                },
+                {
+                  "name": "76. Minister may request more information for making decisions"
+                },
+                {
+                  "name": "77. Notice and reasons for decision"
+                },
+                {
+                  "name": "77A. Action to be taken in a particular manner"
+                }
+              ]
+            },
+            {
+              "name": "Division 3--Reconsideration of decisions",
+              "children": [
+                {
+                  "name": "78. Reconsideration of decision"
+                },
+                {
+                  "name": "78A. Request for reconsideration of decision by person other than State or Territory Minister"
+                },
+                {
+                  "name": "78B. Minister must inform interested persons of request and invite comments"
+                },
+                {
+                  "name": "78C. Minister must reconsider decision and give notice of outcome"
+                },
+                {
+                  "name": "79. Reconsideration of decision on request by a State or Territory"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PART 8--ASSESSING IMPACTS OF CONTROLLED ACTIONS",
+          "children": [
+            {
+              "name": "Division 1--Simplified outline of this Part",
+              "children": [ {
+                "name": "80. Simplified outline of this Part"
+              }
+              ]
+            },
+            {
+              "name": "Division 2--Application of this Part",
+              "children": [
+                {
+                  "name": "81. Application"
+                },
+                {
+                  "name": "82. What are the relevant impacts of an action?"
+                },
+                {
+                  "name": "83. This Part does not apply if action covered by bilateral agreement"
+                },
+                {
+                  "name": "84. This Part does not apply if action covered by declaration"
+                }
+              ]
+            },
+            {
+              "name": "Division 3--Decision on assessment approach",
+              "children": [
+                {
+                  "name": "Subdivision A--Simplified outline of this Division",
+                  "children": [ {
+                    "name": "85. Simplified outline of this Division"
+                  }
+                  ]
+                },
+                {
+                  "name": "Subdivision B--Deciding on approach for assessment",
+                  "children": [
+                    {
+                      "name": "87. Minister must decide on approach for assessment"
+                    },
+                    {
+                      "name": "88. Timing of decision on assessment approach"
+                    },
+                    {
+                      "name": "89. Minister may request more information for making decision"
+                    },
+                    {
+                      "name": "90. Directing an inquiry after starting an assessment"
+                    },
+                    {
+                      "name": "91. Notice of decision on assessment approach"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Division 3A--Assessment on referral information",
+              "children": [
+                {
+                  "name": "92. Application of this Division"
+                },
+                {
+                  "name": "93. Recommendation report"
+                }
+              ]
+            },
+            {
+              "name": "Division 4--Assessment on preliminary documentation",
+              "children": [
+                {
+                  "name": "94. Application of this Division"
+                },
+                {
+                  "name": "95. Direction to publish referral information and invitation to comment--no further information required"
+                },
+                {
+                  "name": "95A. Direction to publish referral information and invitation to comment--further information required"
+                },
+                {
+                  "name": "95B. Procedure after end of period for comment"
+                },
+                {
+                  "name": "95C. Recommendation report"
+                }
+              ]
+            },
+            {
+              "name": "Division 5--Public environment reports",
+              "children": [
+                {
+                  "name": "96. Application"
+                },
+                {
+                  "name": "96A. Minister must give designated proponent written guidelines for preparation of draft public environment report"
+                },
+                {
+                  "name": "96B. Standard guidelines"
+                },
+                {
+                  "name": "97. Tailored guidelines"
+                },
+                {
+                  "name": "98. Designated proponent must invite comment on draft public environment report"
+                },
+                {
+                  "name": "99. Finalising public environment report"
+                },
+                {
+                  "name": "100. Recommendation report"
+                }
+              ]
+            },
+            {
+              "name": "Division 6--Environmental impact statements",
+              "children": [
+                {
+                  "name": "101. Application"
+                },
+                {
+                  "name": "101A. Minister must give designated proponent written guidelines for preparation of draft environmental impact statement"
+                },
+                {
+                  "name": "101B. Standard guidelines"
+                },
+                {
+                  "name": "102. Tailored guidelines"
+                },
+                {
+                  "name": "103. Designated proponent must invite comment on draft environmental impact statement"
+                },
+                {
+                  "name": "104. Finalising environmental impact statement"
+                },
+                {
+                  "name": "105. Recommendation report"
+                }
+              ]
+            },
+            {
+              "name": "Division 7--Inquiries",
+              "children": [
+                {
+                  "name": "Subdivision A--Preliminary",
+                  "children": [ {
+                    "name": "106. Simplified outline"
+                  }
+                  ]
+                },
+                {
+                  "name": "Subdivision B--Establishment of inquiries",
+                  "children": [
+                    {
+                      "name": "107. Appointing commissioners and setting terms of reference"
+                    },
+                    {
+                      "name": "108. Publicising inquiry"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision C--Conduct of inquiries",
+                  "children": [
+                    {
+                      "name": "109. Procedure of inquiries"
+                    },
+                    {
+                      "name": "110. Inquiry to be public"
+                    },
+                    {
+                      "name": "111. Calling witnesses"
+                    },
+                    {
+                      "name": "112. Dealing with witnesses"
+                    },
+                    {
+                      "name": "113. Dealing with documents given to commission"
+                    },
+                    {
+                      "name": "114. Inspections of land, buildings and places"
+                    },
+                    {
+                      "name": "115. Entering premises by consent"
+                    },
+                    {
+                      "name": "116. Entering premises under warrant"
+                    },
+                    {
+                      "name": "117. Warrants by telephone or other electronic means"
+                    },
+                    {
+                      "name": "118. Identity cards"
+                    },
+                    {
+                      "name": "119. Contempt"
+                    },
+                    {
+                      "name": "120. Protection of commissioners and witnesses"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision D--Inquiry reports",
+                  "children": [
+                    {
+                      "name": "121. Timing of report"
+                    },
+                    {
+                      "name": "122. Publication of report"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision E--Commissioners' terms and conditions",
+                  "children": [
+                    {
+                      "name": "123. Basis of appointment"
+                    },
+                    {
+                      "name": "124. Remuneration"
+                    },
+                    {
+                      "name": "125. Leave of absence"
+                    },
+                    {
+                      "name": "126. Resignation"
+                    },
+                    {
+                      "name": "127. Termination of appointment"
+                    },
+                    {
+                      "name": "128. Disclosure of interests"
+                    },
+                    {
+                      "name": "129. Other terms and conditions"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PART 9--APPROVAL OF ACTIONS",
+          "children": [
+            {
+              "name": "Division 1--Decisions on approval and conditions",
+              "children": [
+                {
+                  "name": "Subdivision A--General",
+                  "children": [
+                    {
+                      "name": "130. Timing of decision on approval"
+                    },
+                    {
+                      "name": "131. Inviting comments from other Ministers before decision"
+                    },
+                    {
+                      "name": "131AA. Inviting comments before decision from person proposing to take action and designated proponent"
+                    },
+                    {
+                      "name": "131AB. Minister must obtain advice from Independent Expert Scientific Committee on Coal Seam Gas and Large Coal Mining Development"
+                    },
+                    {
+                      "name": "131A. Inviting public comment before decision"
+                    },
+                    {
+                      "name": "132. Requesting further information for approval decision"
+                    },
+                    {
+                      "name": "132A. Requesting notice from appropriate State or Territory Minister about certain actions"
+                    },
+                    {
+                      "name": "132B. Election to have an action management plan approved after approval of the taking of an action granted"
+                    },
+                    {
+                      "name": "133. Grant of approval"
+                    },
+                    {
+                      "name": "134. Conditions of approval"
+                    },
+                    {
+                      "name": "134A. Inviting public comment before approving action management plan"
+                    },
+                    {
+                      "name": "135. Certain approvals and conditions must not give preference"
+                    },
+                    {
+                      "name": "135A. Publication of recommendation reports"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision B--Considerations for approvals and conditions",
+                  "children": [
+                    {
+                      "name": "136. General considerations"
+                    },
+                    {
+                      "name": "137. Requirements for decisions about World Heritage"
+                    },
+                    {
+                      "name": "137A. Requirements for decisions about National Heritage places"
+                    },
+                    {
+                      "name": "138. Requirements for decisions about Ramsar wetlands"
+                    },
+                    {
+                      "name": "139. Requirements for decisions about threatened species and endangered communities"
+                    },
+                    {
+                      "name": "140. Requirements for decisions about migratory species"
+                    },
+                    {
+                      "name": "140A. No approval for certain nuclear installations"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Division 2--Requirement to comply with conditions",
+              "children": [
+                {
+                  "name": "142. Compliance with conditions on approval"
+                },
+                {
+                  "name": "142A. Offence of breaching conditions on approval"
+                },
+                {
+                  "name": "142B. Strict liability offence for breach of approval condition"
+                }
+              ]
+            },
+            {
+              "name": "Division 3--Variation of conditions and suspension and revocation of approvals",
+              "children": [
+                {
+                  "name": "143. Variation of conditions attached to approval"
+                },
+                {
+                  "name": "143A. Variation of action management plan"
+                },
+                {
+                  "name": "144. Suspension of approval"
+                },
+                {
+                  "name": "145. Revocation of approval"
+                },
+                {
+                  "name": "145A. Reinstating suspended or revoked approval"
+                }
+              ]
+            },
+            {
+              "name": "Division 4--Transfer of approvals",
+              "children": [ {
+                "name": "145B. Transfer with Minister's consent"
+              }
+              ]
+            },
+            {
+              "name": "Division 5--Extension of period of effect of approval",
+              "children": [
+                {
+                  "name": "145C. Application to Minister to extend period of effect of approval"
+                },
+                {
+                  "name": "145D. Minister must decide whether or not to extend approval period"
+                },
+                {
+                  "name": "145E. Minister may request further information for making decision"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PART 10--STRATEGIC ASSESSMENTS",
+          "children": [
+            {
+              "name": "Division 1--Strategic assessments generally",
+              "children": [
+                {
+                  "name": "Subdivision A--Assessment of actions to be taken in accordance with policy, plan or program",
+                  "children": [ {
+                    "name": "146. Minister may agree on strategic assessment"
+                  }
+                  ]
+                },
+                {
+                  "name": "Subdivision B--Approval of taking of actions in accordance with endorsed policy, plan or program",
+                  "children": [
+                    {
+                      "name": "146A. Definition"
+                    },
+                    {
+                      "name": "146B. Minister may approve taking of actions in accordance with endorsed policy, plan or program"
+                    },
+                    {
+                      "name": "146C. Inviting comments from other Ministers before deciding whether or not to approve taking of actions in accordance with endorsed policy, plan or program"
+                    },
+                    {
+                      "name": "146D. Effect of approval of taking of actions in accordance with endorsed policy, plan or program"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision C--Considerations for approving taking of actions in accordance with endorsed policy, plan or program",
+                  "children": [
+                    {
+                      "name": "146E. Minister must comply with this Subdivision"
+                    },
+                    {
+                      "name": "146F. General considerations"
+                    },
+                    {
+                      "name": "146G. Approvals relating to declared World Heritage properties"
+                    },
+                    {
+                      "name": "146H. Approvals relating to National Heritage places"
+                    },
+                    {
+                      "name": "146J. Approvals relating to declared Ramsar wetlands"
+                    },
+                    {
+                      "name": "146K. Approvals relating to listed threatened species and ecological communities"
+                    },
+                    {
+                      "name": "146L. Approvals relating to listed migratory species"
+                    },
+                    {
+                      "name": "146M. No approvals relating to nuclear actions"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Division 2--Assessment of Commonwealth-managed fisheries",
+              "children": [
+                {
+                  "name": "147. Simplified outline of this Division"
+                },
+                {
+                  "name": "148. Assessment before management plan is determined"
+                },
+                {
+                  "name": "149. Assessment before determination that no plan required"
+                },
+                {
+                  "name": "150. Assessment of all fisheries without plans must be started within 5 years"
+                },
+                {
+                  "name": "151. Assessment of all Torres Strait fisheries to be started within 5 years"
+                },
+                {
+                  "name": "152. Further assessment if impacts greater than previously assessed"
+                },
+                {
+                  "name": "153. Minister must make declaration if he or she endorses plan or policy"
+                },
+                {
+                  "name": "154. This Division does not limit Division 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PART 11--MISCELLANEOUS RULES ABOUT ASSESSMENTS AND APPROVALS",
+          "children": [
+            {
+              "name": "Division 1--Rules about timing",
+              "children": [
+                {
+                  "name": "155. This Chapter ceases to apply to lapsed proposals"
+                },
+                {
+                  "name": "156. General rules about time limits"
+                }
+              ]
+            },
+            {
+              "name": "Division 1A--Variation of proposals to take actions",
+              "children": [
+                {
+                  "name": "156A. Request to vary proposal to take an action"
+                },
+                {
+                  "name": "156B. Minister must decide whether or not to accept a varied proposal"
+                },
+                {
+                  "name": "156C. Minister may request further information in relation to a varied proposal"
+                },
+                {
+                  "name": "156D. Effect of Minister's decision to accept or not accept a varied proposal"
+                },
+                {
+                  "name": "156E. Notice of decision"
+                }
+              ]
+            },
+            {
+              "name": "Division 1B--Change of person proposing to take action",
+              "children": [ {
+                "name": "156F. Change of person proposing to take action"
+              }
+              ]
+            },
+            {
+              "name": "Division 2--Actions in area offshore from a State or the",
+              "children": [ {
+                "name": "157. Actions treated as though they were in a State or the Northern Territory"
+              }
+              ]
+            },
+            {
+              "name": "Division 3--Exemptions",
+              "children": [ {
+                "name": "158. Exemptions from Part 3 and this Chapter"
+              }
+              ]
+            },
+            {
+              "name": "Division 3A--Approval process decisions not affected by listing events that happen after section 75 decision made",
+              "children": [ {
+                "name": "158A. Approval process decisions not affected by listing events that happen after section 75 decision made"
+              }
+              ]
+            },
+            {
+              "name": "Division 4--Application of Chapter to actions that are not controlled actions",
+              "children": [
+                {
+                  "name": "Subdivision A--Minister's advice on authorising actions",
+                  "children": [
+                    {
+                      "name": "159. Simplified outline of this Subdivision"
+                    },
+                    {
+                      "name": "160. Requirement to take account of Minister's advice"
+                    },
+                    {
+                      "name": "161. Seeking the Minister's advice"
+                    },
+                    {
+                      "name": "161A. Minister may decide that advice is not required"
+                    },
+                    {
+                      "name": "161B. Certain provisions of other Acts not to apply if Minister decides that advice is not required"
+                    },
+                    {
+                      "name": "162. Assessment of the action"
+                    },
+                    {
+                      "name": "163. Providing advice"
+                    },
+                    {
+                      "name": "164. Reporting on response to advice"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision C--Assessment under agreement with State or Territory",
+                  "children": [
+                    {
+                      "name": "166. This Subdivision applies if Ministers agree it should"
+                    },
+                    {
+                      "name": "167. Making an agreement"
+                    },
+                    {
+                      "name": "168. Content of an agreement"
+                    },
+                    {
+                      "name": "169. Application of a Division of Part 8"
+                    },
+                    {
+                      "name": "170. Application of Subdivision A of Division 1 of Part 10"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Division 5--Publication of information relating to assessments",
+              "children": [
+                {
+                  "name": "170A. Publication of information relating to assessments"
+                },
+                {
+                  "name": "170B. Information critical to protecting matters of national environmental significance not to be disclosed"
+                },
+                {
+                  "name": "170BA. Designated proponent may request Minister to permit commercial-in-confidence information not to be disclosed"
+                }
+              ]
+            },
+            {
+              "name": "Division 6--Withdrawal of referrals",
+              "children": [ {
+                "name": "170C. Withdrawal of referral of proposal to take an action"
+              }
+              ]
+            },
+            {
+              "name": "Division 7--Miscellaneous",
+              "children": [ {
+                "name": "170CA. Fees"
+              }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CHAPTER 5--Conservation of biodiversity and heritage",
+      "children": [
+        {
+          "name": "PART 11A--INTERPRETATION",
+          "children": [ {
+            "name": "170D. References to business days are references to Canberra business days"
+          }
+          ]
+        },
+        {
+          "name": "PART 12--IDENTIFYING AND MONITORING BIODIVERSITY AND MAKING BIOREGIONAL PLANS",
+          "children": [
+            {
+              "name": "Division 1--Identifying and monitoring biodiversity",
+              "children": [
+                {
+                  "name": "171. Identifying and monitoring biodiversity"
+                },
+                {
+                  "name": "172. Inventories of listed threatened species etc. on Commonwealth land"
+                },
+                {
+                  "name": "173. Surveys of cetaceans, listed threatened species etc. in Commonwealth marine areas"
+                },
+                {
+                  "name": "174. Inventories and surveys to be updated"
+                }
+              ]
+            },
+            {
+              "name": "Division 2--Bioregional plans",
+              "children": [
+                {
+                  "name": "176. Bioregional plans"
+                },
+                {
+                  "name": "177. Obligations under this Act unaffected by lack of bioregional plans"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PART 13--SPECIES AND COMMUNITIES",
+          "children": [
+            {
+              "name": "Division 1--Listed threatened species and ecological communities",
+              "children": [
+                {
+                  "name": "Subdivision A--Listing",
+                  "children": [
+                    {
+                      "name": "178. Listing of threatened species"
+                    },
+                    {
+                      "name": "179. Categories of threatened species"
+                    },
+                    {
+                      "name": "180. Native species of marine fish"
+                    },
+                    {
+                      "name": "181. Listing of threatened ecological communities"
+                    },
+                    {
+                      "name": "182. Critically endangered, endangered and vulnerable communities"
+                    },
+                    {
+                      "name": "183. Listing of key threatening processes"
+                    },
+                    {
+                      "name": "184. Minister may amend lists"
+                    },
+                    {
+                      "name": "186. Amending list of threatened native species"
+                    },
+                    {
+                      "name": "187. Amending list of ecological communities"
+                    },
+                    {
+                      "name": "188. Amending list of key threatening processes"
+                    },
+                    {
+                      "name": "189. Minister must consider advice from Scientific Committee"
+                    },
+                    {
+                      "name": "189A. Certain information may be kept confidential"
+                    },
+                    {
+                      "name": "189B. Disclosure of Scientific Committee's assessments and advice"
+                    },
+                    {
+                      "name": "190. Scientific Committee may provide advice about species or communities becoming threatened"
+                    },
+                    {
+                      "name": "192. Rediscovery of threatened species that were extinct"
+                    },
+                    {
+                      "name": "193. Species posing a serious threat to human health"
+                    },
+                    {
+                      "name": "194. Lists must be publicly available"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision AA--The nomination and listing process",
+                  "children": [
+                    {
+                      "name": "194A. Simplified outline"
+                    },
+                    {
+                      "name": "194B. Definitions"
+                    },
+                    {
+                      "name": "194C. Meaning of assessment period"
+                    },
+                    {
+                      "name": "194D. Minister may determine conservation themes for an assessment period"
+                    },
+                    {
+                      "name": "194E. Minister to invite nominations for each assessment period"
+                    },
+                    {
+                      "name": "194F. Minister to give nominations to Scientific Committee"
+                    },
+                    {
+                      "name": "194G. Scientific Committee to prepare proposed priority assessment list"
+                    },
+                    {
+                      "name": "194H. Matters to be included in proposed priority assessment list"
+                    },
+                    {
+                      "name": "194J. Statement to be given to Minister with proposed priority assessment list"
+                    },
+                    {
+                      "name": "194K. The finalised priority assessment list"
+                    },
+                    {
+                      "name": "194L. Publication of finalised priority assessment list"
+                    },
+                    {
+                      "name": "194M. Scientific Committee to invite comments on items in finalised priority assessment list"
+                    },
+                    {
+                      "name": "194N. Scientific Committee to assess items on finalised priority assessment list and give assessments to Minister"
+                    },
+                    {
+                      "name": "194P. Time by which assessments to be provided to Minister"
+                    },
+                    {
+                      "name": "194Q. Decision about inclusion of an item in the Subdivision A List"
+                    },
+                    {
+                      "name": "194R. Scientific Committee may obtain advice"
+                    },
+                    {
+                      "name": "194S. Co-ordination with Australian Heritage Council--Committee undertaking assessment"
+                    },
+                    {
+                      "name": "194T. Co-ordination with Australian Heritage Council--Committee given assessment to Minister"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision B--Permit system",
+                  "children": [
+                    {
+                      "name": "195. Subdivision does not apply to cetaceans"
+                    },
+                    {
+                      "name": "196. Killing or injuring member of listed threatened species or community"
+                    },
+                    {
+                      "name": "196A. Strict liability for killing or injuring member of listed threatened species or community"
+                    },
+                    {
+                      "name": "196B. Taking etc. member of listed threatened species or community"
+                    },
+                    {
+                      "name": "196C. Strict liability for taking etc. member of listed threatened species or community"
+                    },
+                    {
+                      "name": "196D. Trading etc. member of listed threatened species or community taken in Commonwealth area"
+                    },
+                    {
+                      "name": "196E. Strict liability for trading etc. member of listed threatened species or community taken in Commonwealth area"
+                    },
+                    {
+                      "name": "196F. Aggravated offence--member of listed threatened species that is a dugong or turtle"
+                    },
+                    {
+                      "name": "197. Certain actions are not offences"
+                    },
+                    {
+                      "name": "198. Operation of sections 18 and 18A not affected"
+                    },
+                    {
+                      "name": "199. Failing to notify taking of listed threatened species or listed ecological community"
+                    },
+                    {
+                      "name": "200. Application for permits"
+                    },
+                    {
+                      "name": "201. Minister may issue permits"
+                    },
+                    {
+                      "name": "202. Conditions of permits"
+                    },
+                    {
+                      "name": "203. Contravening conditions of a permit"
+                    },
+                    {
+                      "name": "204. Authorities under permits"
+                    },
+                    {
+                      "name": "205. Transfer of permits"
+                    },
+                    {
+                      "name": "206. Suspension or cancellation of permits"
+                    },
+                    {
+                      "name": "206A. Review of decisions about permits"
+                    },
+                    {
+                      "name": "207. Fees"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision BA--Protecting critical habitat",
+                  "children": [
+                    {
+                      "name": "207A. Register of critical habitat"
+                    },
+                    {
+                      "name": "207B. Offence of knowingly damaging critical habitat"
+                    },
+                    {
+                      "name": "207C. Sale or lease of Commonwealth land containing critical habitat"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision C--Miscellaneous",
+                  "children": [
+                    {
+                      "name": "208A. Minister may accredit plans, regimes or policies"
+                    },
+                    {
+                      "name": "208. Regulations"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Division 2--Migratory species",
+              "children": [
+                {
+                  "name": "Subdivision A--Listing",
+                  "children": [ {
+                    "name": "209. Listed migratory species"
+                  }
+                  ]
+                },
+                {
+                  "name": "Subdivision B--Permit system",
+                  "children": [
+                    {
+                      "name": "210. Subdivision does not apply to members of listed threatened species or cetaceans"
+                    },
+                    {
+                      "name": "211. Killing or injuring member of listed migratory species"
+                    },
+                    {
+                      "name": "211A. Strict liability for killing or injuring member of listed migratory species"
+                    },
+                    {
+                      "name": "211B. Taking etc. member of listed migratory species"
+                    },
+                    {
+                      "name": "211C. Strict liability for taking etc. member of listed migratory species"
+                    },
+                    {
+                      "name": "211D. Trading etc. member of listed migratory species taken in Commonwealth area"
+                    },
+                    {
+                      "name": "211E. Strict liability for trading etc. member of listed migratory species taken in Commonwealth area"
+                    },
+                    {
+                      "name": "211F. Aggravated offence--member of listed migratory species that is a dugong or turtle"
+                    },
+                    {
+                      "name": "212. Certain actions are not offences"
+                    },
+                    {
+                      "name": "213. Operation of sections 20 and 20A not affected"
+                    },
+                    {
+                      "name": "214. Failing to notify taking etc. of listed migratory species"
+                    },
+                    {
+                      "name": "215. Application for permits"
+                    },
+                    {
+                      "name": "216. Minister may issue permits"
+                    },
+                    {
+                      "name": "217. Conditions of permits"
+                    },
+                    {
+                      "name": "218. Contravening conditions of a permit"
+                    },
+                    {
+                      "name": "219. Authorities under permits"
+                    },
+                    {
+                      "name": "220. Transfer of permits"
+                    },
+                    {
+                      "name": "221. Suspension or cancellation of permits"
+                    },
+                    {
+                      "name": "221A. Review of decisions about permits"
+                    },
+                    {
+                      "name": "222. Fees"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision C--Miscellaneous",
+                  "children": [
+                    {
+                      "name": "222A. Minister may accredit plans, regimes or policies"
+                    },
+                    {
+                      "name": "223. Regulations"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Division 3--Whales and other cetaceans",
+              "children": [
+                {
+                  "name": "Subdivision A--Application of Division",
+                  "children": [ {
+                    "name": "224. Application of Division"
+                  }
+                  ]
+                },
+                {
+                  "name": "Subdivision B--Australian Whale Sanctuary and important cetacean habitat areas",
+                  "children": [
+                    {
+                      "name": "225. Australian Whale Sanctuary"
+                    },
+                    {
+                      "name": "226. Prescribed waters"
+                    },
+                    {
+                      "name": "227. Coastal waters"
+                    },
+                    {
+                      "name": "228. Minister may make declaration for coastal waters"
+                    },
+                    {
+                      "name": "228A. Important cetacean habitat areas"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision C--Offences",
+                  "children": [
+                    {
+                      "name": "229. Killing or injuring a cetacean"
+                    },
+                    {
+                      "name": "229A. Strict liability for killing or injuring a cetacean"
+                    },
+                    {
+                      "name": "229B. Intentionally taking etc. a cetacean"
+                    },
+                    {
+                      "name": "229C. Strict liability for taking etc. a cetacean"
+                    },
+                    {
+                      "name": "229D. Treating cetaceans"
+                    },
+                    {
+                      "name": "230. Possession of cetaceans"
+                    },
+                    {
+                      "name": "231. Certain actions are not offences"
+                    },
+                    {
+                      "name": "232. Action to be taken on killing etc. cetaceans"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision E--Miscellaneous offences",
+                  "children": [ {
+                    "name": "236. Offences relating to foreign whaling vessels"
+                  }
+                  ]
+                },
+                {
+                  "name": "Subdivision F--Permit system",
+                  "children": [
+                    {
+                      "name": "237. Application for permits"
+                    },
+                    {
+                      "name": "238. Minister may issue permits"
+                    },
+                    {
+                      "name": "239. Conditions of permits"
+                    },
+                    {
+                      "name": "240. Contravening conditions of a permit"
+                    },
+                    {
+                      "name": "241. Authorities under permits"
+                    },
+                    {
+                      "name": "242. Transfer of permits"
+                    },
+                    {
+                      "name": "243. Suspension or cancellation of permits"
+                    },
+                    {
+                      "name": "243A. Review of decisions about permits"
+                    },
+                    {
+                      "name": "244. Fees"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision G--Miscellaneous",
+                  "children": [
+                    {
+                      "name": "245. Minister may accredit plans, regimes or policies"
+                    },
+                    {
+                      "name": "246. Vesting of whales in Commonwealth"
+                    },
+                    {
+                      "name": "247. Regulations"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Division 4--Listed marine species",
+              "children": [
+                {
+                  "name": "Subdivision A--Listing",
+                  "children": [
+                    {
+                      "name": "248. Listed marine species"
+                    },
+                    {
+                      "name": "249. Minister may amend list"
+                    },
+                    {
+                      "name": "250. Adding marine species to the list"
+                    },
+                    {
+                      "name": "251. Minister must consider advice from Scientific Committee"
+                    },
+                    {
+                      "name": "252. Minister to make lists available to the public"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision B--Permit system",
+                  "children": [
+                    {
+                      "name": "253. Subdivision does not apply to members of certain species and cetaceans"
+                    },
+                    {
+                      "name": "254. Killing or injuring member of listed marine species"
+                    },
+                    {
+                      "name": "254A. Strict liability for killing or injuring member of listed marine species"
+                    },
+                    {
+                      "name": "254B. Taking etc. member of listed marine species"
+                    },
+                    {
+                      "name": "254C. Strict liability for taking etc. member of listed marine species"
+                    },
+                    {
+                      "name": "254D. Trading etc. member of listed marine species taken in Commonwealth area"
+                    },
+                    {
+                      "name": "254E. Strict liability for trading etc. member of listed marine species taken in Commonwealth area"
+                    },
+                    {
+                      "name": "254F. Aggravated offence--member of listed marine species that is a dugong or turtle"
+                    },
+                    {
+                      "name": "255. Certain actions are not offences"
+                    },
+                    {
+                      "name": "256. Failing to notify taking etc. of listed marine wildlife"
+                    },
+                    {
+                      "name": "257. Application for permits"
+                    },
+                    {
+                      "name": "258. Minister may issue permits"
+                    },
+                    {
+                      "name": "259. Conditions of permits"
+                    },
+                    {
+                      "name": "260. Contravening conditions of a permit"
+                    },
+                    {
+                      "name": "261. Authorities under permits"
+                    },
+                    {
+                      "name": "262. Transfer of permits"
+                    },
+                    {
+                      "name": "263. Suspension or cancellation of permits"
+                    },
+                    {
+                      "name": "263A. Review of decisions about permits"
+                    },
+                    {
+                      "name": "264. Fees"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision C--Miscellaneous",
+                  "children": [
+                    {
+                      "name": "265. Minister may accredit plans, regimes or policies"
+                    },
+                    {
+                      "name": "266. Regulations"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CHAPTER 5--Conservation of biodiversity and heritage",
+      "children": [
+        {
+          "name": "PART 13--SPECIES AND COMMUNITIES",
+          "children": [
+            {
+              "name": "Division 5--Conservation advice, recovery plans, threat abatement plans and wildlife conservation plans",
+              "children": [
+                {
+                  "name": "Subdivision AA--Approved conservation advice",
+                  "children": [ {
+                    "name": "266B. Approved conservation advice for listed threatened species and listed threatened ecological communities"
+                  }
+                  ]
+                },
+                {
+                  "name": "Subdivision A--Recovery plans and threat abatement plans",
+                  "children": [
+                    {
+                      "name": "267. Simplified outline of this Subdivision"
+                    },
+                    {
+                      "name": "268. Compliance with recovery plans and threat abatement plans"
+                    },
+                    {
+                      "name": "269. Implementing recovery and threat abatement plans"
+                    },
+                    {
+                      "name": "269AA. Decision whether to have a recovery plan"
+                    },
+                    {
+                      "name": "269A. Making or adopting a recovery plan"
+                    },
+                    {
+                      "name": "270. Content of recovery plans"
+                    },
+                    {
+                      "name": "270A. Decision whether to have a threat abatement plan"
+                    },
+                    {
+                      "name": "270B. Making or adopting a threat abatement plan"
+                    },
+                    {
+                      "name": "271. Content of threat abatement plans"
+                    },
+                    {
+                      "name": "272. Eradication of non-native species"
+                    },
+                    {
+                      "name": "273. Ensuring plans are in force"
+                    },
+                    {
+                      "name": "274. Scientific Committee to advise on plans"
+                    },
+                    {
+                      "name": "275. Consultation on plans"
+                    },
+                    {
+                      "name": "276. Consideration of comments"
+                    },
+                    {
+                      "name": "277. Adoption of State plans"
+                    },
+                    {
+                      "name": "278. Publication of plans"
+                    },
+                    {
+                      "name": "279. Variation of plans by the Minister"
+                    },
+                    {
+                      "name": "280. Variation by a State or Territory of joint plans and plans adopted by the Minister"
+                    },
+                    {
+                      "name": "281. Commonwealth assistance"
+                    },
+                    {
+                      "name": "282. Scientific Committee to advise on assistance"
+                    },
+                    {
+                      "name": "283. Plans may cover more than one species etc."
+                    },
+                    {
+                      "name": "283A. Revoking a plan"
+                    },
+                    {
+                      "name": "284. Reports on preparation and implementation of plans"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision B--Wildlife conservation plans",
+                  "children": [
+                    {
+                      "name": "285. Wildlife conservation plans"
+                    },
+                    {
+                      "name": "286. Acting in accordance with wildlife conservation plans"
+                    },
+                    {
+                      "name": "287. Content of wildlife conservation plans"
+                    },
+                    {
+                      "name": "288. Eradication of non-native species"
+                    },
+                    {
+                      "name": "289. Scientific Committee to advise on scheduling of plans"
+                    },
+                    {
+                      "name": "290. Consultation on plans"
+                    },
+                    {
+                      "name": "291. Consideration of comments"
+                    },
+                    {
+                      "name": "292. Adoption of State plans"
+                    },
+                    {
+                      "name": "293. Publication, review and variation of plans"
+                    },
+                    {
+                      "name": "294. Variation of plans by the Minister"
+                    },
+                    {
+                      "name": "295. Variation by a State or Territory of joint plans and plans adopted by the Minister"
+                    },
+                    {
+                      "name": "296. Commonwealth assistance"
+                    },
+                    {
+                      "name": "297. Plans may cover more than one species etc."
+                    },
+                    {
+                      "name": "298. Reports on preparation and implementation of plans"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision C--Miscellaneous",
+                  "children": [
+                    {
+                      "name": "299. Wildlife conservation plans cease to have effect"
+                    },
+                    {
+                      "name": "300. Document may contain more than one plan"
+                    },
+                    {
+                      "name": "300A. State and Territory laws not affected"
+                    },
+                    {
+                      "name": "300B. Assistance from the Scientific Committee"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Division 6--Access to biological resources",
+              "children": [ {
+                "name": "301. Control of access to biological resources"
+              }
+              ]
+            },
+            {
+              "name": "Division 6A--Control of non-native species",
+              "children": [ {
+                "name": "301A. Regulations for control of non-native species"
+              }
+              ]
+            },
+            {
+              "name": "Division 7--Aid for conservation of species in foreign countries",
+              "children": [ {
+                "name": "302. Aid for conservation of species in foreign countries"
+              }
+              ]
+            },
+            {
+              "name": "Division 8--Miscellaneous",
+              "children": [
+                {
+                  "name": "303. Regulations"
+                },
+                {
+                  "name": "303A. Exemptions from this Part"
+                },
+                {
+                  "name": "303AA. Conditions relating to accreditation of plans, regimes and policies"
+                },
+                {
+                  "name": "303AB. Amended policies, regimes or plans taken to be accredited"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PART 13A--INTERNATIONAL MOVEMENT OF WILDLIFE SPECIMENS",
+          "children": [
+            {
+              "name": "Division 1--Introduction",
+              "children": [
+                {
+                  "name": "303BA. Objects of Part"
+                },
+                {
+                  "name": "303BAA. Certain indigenous rights not affected"
+                },
+                {
+                  "name": "303BB. Simplified outline"
+                },
+                {
+                  "name": "303BC. Definitions"
+                }
+              ]
+            },
+            {
+              "name": "Division 2--CITES species",
+              "children": [
+                {
+                  "name": "Subdivision A--CITES species and CITES specimens",
+                  "children": [
+                    {
+                      "name": "303CA. Listing of CITES species"
+                    },
+                    {
+                      "name": "303CB. Stricter domestic measures"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision B--Offences and permit system",
+                  "children": [
+                    {
+                      "name": "303CC. Exports of CITES specimens"
+                    },
+                    {
+                      "name": "303CD. Imports of CITES specimens"
+                    },
+                    {
+                      "name": "303CE. Applications for permits"
+                    },
+                    {
+                      "name": "303CF. Further information"
+                    },
+                    {
+                      "name": "303CG. Minister may issue permits"
+                    },
+                    {
+                      "name": "303CH. Specific conditions relating to the export or import of CITES specimens for commercial purposes"
+                    },
+                    {
+                      "name": "303CI. Time limit for making permit decision"
+                    },
+                    {
+                      "name": "303CJ. Duration of permits"
+                    },
+                    {
+                      "name": "303CK. Register of applications and decisions"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision C--Application of CITES",
+                  "children": [
+                    {
+                      "name": "303CL. Application of CITES--Management Authority and Scientific Authority"
+                    },
+                    {
+                      "name": "303CM. Interpretation of CITES provisions"
+                    },
+                    {
+                      "name": "303CN. Resolutions of the Conference of the Parties to CITES"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Division 3--Exports of regulated native specimens",
+              "children": [
+                {
+                  "name": "Subdivision A--Regulated native specimens",
+                  "children": [
+                    {
+                      "name": "303DA. Regulated native specimens"
+                    },
+                    {
+                      "name": "303DB. Listing of exempt native specimens"
+                    },
+                    {
+                      "name": "303DC. Minister may amend list"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision B--Offence and permit system",
+                  "children": [
+                    {
+                      "name": "303DD. Exports of regulated native specimens"
+                    },
+                    {
+                      "name": "303DE. Applications for permits"
+                    },
+                    {
+                      "name": "303DF. Further information"
+                    },
+                    {
+                      "name": "303DG. Minister may issue permits"
+                    },
+                    {
+                      "name": "303DH. Time limit for making permit decision"
+                    },
+                    {
+                      "name": "303DI. Duration of permits"
+                    },
+                    {
+                      "name": "303DJ. Register of applications and decisions"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Division 4--Imports of regulated live specimens",
+              "children": [
+                {
+                  "name": "Subdivision A--Regulated live specimens",
+                  "children": [
+                    {
+                      "name": "303EA. Regulated live specimens"
+                    },
+                    {
+                      "name": "303EB. Listing of specimens suitable for live import"
+                    },
+                    {
+                      "name": "303EC. Minister may amend list"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision B--Assessments relating to the amendment of the list of specimens suitable for import",
+                  "children": [
+                    {
+                      "name": "303ED. Amendment of list on the Minister's own initiative"
+                    },
+                    {
+                      "name": "303EE. Application for amendment of list"
+                    },
+                    {
+                      "name": "303EF. Requirement for assessments"
+                    },
+                    {
+                      "name": "303EG. Timing of decision about proposed amendment"
+                    },
+                    {
+                      "name": "303EH. Requesting further information"
+                    },
+                    {
+                      "name": "303EI. Notice of refusal of proposed amendment"
+                    },
+                    {
+                      "name": "303EJ. Reviews"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision C--Offence and permit system",
+                  "children": [
+                    {
+                      "name": "303EK. Imports of regulated live specimens"
+                    },
+                    {
+                      "name": "303EL. Applications for permits"
+                    },
+                    {
+                      "name": "303EM. Further information"
+                    },
+                    {
+                      "name": "303EN. Minister may issue permits"
+                    },
+                    {
+                      "name": "303EO. Time limit for making permit decision"
+                    },
+                    {
+                      "name": "303EP. Duration of permits"
+                    },
+                    {
+                      "name": "303EQ. Register of applications and decisions"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision D--Marking of certain specimens for the purposes of identification",
+                  "children": [
+                    {
+                      "name": "303ER. Object"
+                    },
+                    {
+                      "name": "303ES. Specimens to which Subdivision applies"
+                    },
+                    {
+                      "name": "303ET. Extended meaning of marking"
+                    },
+                    {
+                      "name": "303EU. Secretary may make determinations about marking of specimens"
+                    },
+                    {
+                      "name": "303EV. Offences"
+                    },
+                    {
+                      "name": "303EW. This Subdivision does not limit conditions of permits"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Division 5--Concepts relating to permit criteria",
+              "children": [
+                {
+                  "name": "Subdivision A--Non-commercial purpose exports and imports",
+                  "children": [
+                    {
+                      "name": "303FA. Eligible non-commercial purpose exports"
+                    },
+                    {
+                      "name": "303FB. Eligible non-commercial purpose imports"
+                    },
+                    {
+                      "name": "303FC. Export or import for the purposes of research"
+                    },
+                    {
+                      "name": "303FD. Export or import for the purposes of education"
+                    },
+                    {
+                      "name": "303FE. Export or import for the purposes of exhibition"
+                    },
+                    {
+                      "name": "303FF. Export or import for conservation breeding or propagation"
+                    },
+                    {
+                      "name": "303FG. Export or import of household pets"
+                    },
+                    {
+                      "name": "303FH. Export or import of personal items"
+                    },
+                    {
+                      "name": "303FI. Export or import for the purposes of a travelling exhibition"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision B--Commercial purpose exports and imports",
+                  "children": [
+                    {
+                      "name": "303FJ. Eligible commercial purpose exports"
+                    },
+                    {
+                      "name": "303FK. Export or import from an approved captive breeding program"
+                    },
+                    {
+                      "name": "303FL. Export from an approved artificial propagation program"
+                    },
+                    {
+                      "name": "303FLA. Export from an approved cultivation program"
+                    },
+                    {
+                      "name": "303FM. Export from an approved aquaculture program"
+                    },
+                    {
+                      "name": "303FN. Approved wildlife trade operation"
+                    },
+                    {
+                      "name": "303FO. Approved wildlife trade management plan"
+                    },
+                    {
+                      "name": "303FP. Accredited wildlife trade management plan"
+                    },
+                    {
+                      "name": "303FQ. Consultation with State and Territory agencies"
+                    },
+                    {
+                      "name": "303FR. Public consultation"
+                    },
+                    {
+                      "name": "303FRA. Assessments"
+                    },
+                    {
+                      "name": "303FS. Register of declarations"
+                    },
+                    {
+                      "name": "303FT. Additional provisions relating to declarations"
+                    },
+                    {
+                      "name": "303FU. Approved commercial import program"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Division 6--Miscellaneous",
+              "children": [
+                {
+                  "name": "303GA. Permit decision--controlled action, and action for which a non-Part 13A permit is required"
+                },
+                {
+                  "name": "303GB. Exceptional circumstances permit"
+                },
+                {
+                  "name": "303GC. Permit authorising the Secretary to export or import specimens"
+                },
+                {
+                  "name": "303GD. Testing permit--section 303EE assessments"
+                },
+                {
+                  "name": "303GE. Conditions of permits"
+                },
+                {
+                  "name": "303GF. Contravening conditions of a permit"
+                },
+                {
+                  "name": "303GG. Authorities under permits"
+                },
+                {
+                  "name": "303GH. Transfer of permits"
+                },
+                {
+                  "name": "303GI. Suspension or cancellation of permits"
+                },
+                {
+                  "name": "303GJ. Review of decisions"
+                },
+                {
+                  "name": "303GK. Permit to be produced"
+                },
+                {
+                  "name": "303GL. Pre-CITES certificate to be produced"
+                },
+                {
+                  "name": "303GM. Fees"
+                },
+                {
+                  "name": "303GN. Possession of illegally imported specimens"
+                },
+                {
+                  "name": "303GO. Regulations relating to welfare"
+                },
+                {
+                  "name": "303GP. Cruelty--export or import of animals"
+                },
+                {
+                  "name": "303GQ. Imports of specimens contrary to the laws of a foreign country"
+                },
+                {
+                  "name": "303GR. Evidence"
+                },
+                {
+                  "name": "303GS. Evidence of examiner"
+                },
+                {
+                  "name": "303GT. Protection of witness"
+                },
+                {
+                  "name": "303GU. Forms and declarations--persons arriving in Australia or an external Territory"
+                },
+                {
+                  "name": "303GV. Saving of other laws"
+                },
+                {
+                  "name": "303GW. Part not to apply to certain specimens"
+                },
+                {
+                  "name": "303GX. Part not to apply to certain specimens used by traditional inhabitants"
+                },
+                {
+                  "name": "303GY. When a specimen is lawfully imported"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PART 14--CONSERVATION AGREEMENTS",
+          "children": [
+            {
+              "name": "304. Object of this Part"
+            },
+            {
+              "name": "305. Minister may enter into conservation agreements"
+            },
+            {
+              "name": "306. Content of conservation agreements"
+            },
+            {
+              "name": "306A. Conservation agreement may include declaration that actions do not need approval under Part 9"
+            },
+            {
+              "name": "307. Conservation agreements to be legally binding"
+            },
+            {
+              "name": "307A. Conservation agreements may deal with remediation or mitigation measures"
+            },
+            {
+              "name": "308. Variation and termination of conservation agreements"
+            },
+            {
+              "name": "309. Publication of conservation agreements"
+            },
+            {
+              "name": "310. List of conservation agreements"
+            },
+            {
+              "name": "311. Commonwealth, State and Territory laws"
+            },
+            {
+              "name": "312. Minister must not give preference"
+            }
+          ]
+        },
+        {
+          "name": "PART 15--PROTECTED AREAS",
+          "children": [
+            {
+              "name": "Division 1--Managing World Heritage properties",
+              "children": [
+                {
+                  "name": "Subdivision A--Simplified outline of this Division",
+                  "children": [ {
+                    "name": "313. Simplified outline of this Division"
+                  }
+                  ]
+                },
+                {
+                  "name": "Subdivision B--Seeking agreement on World Heritage listing",
+                  "children": [ {
+                    "name": "314. Special provisions relating to World Heritage nominations"
+                  }
+                  ]
+                },
+                {
+                  "name": "Subdivision C--Notice of submission of property for listing",
+                  "children": [ {
+                    "name": "315. Minister must give notice of submission of property for listing etc."
+                  }
+                  ]
+                },
+                {
+                  "name": "Subdivision D--Plans for listed World Heritage properties in Commonwealth areas",
+                  "children": [
+                    {
+                      "name": "316. Making plans"
+                    },
+                    {
+                      "name": "317. Notice of plans"
+                    },
+                    {
+                      "name": "318. Commonwealth compliance with plans"
+                    },
+                    {
+                      "name": "319. Review of plans every 5 years"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision E--Managing World Heritage properties in States and self-governing Territories",
+                  "children": [
+                    {
+                      "name": "320. Application"
+                    },
+                    {
+                      "name": "321. Co-operating to prepare and implement plans"
+                    },
+                    {
+                      "name": "322. Commonwealth responsibilities"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision F--Australian World Heritage management principles",
+                  "children": [ {
+                    "name": "323. Australian World Heritage management principles"
+                  }
+                  ]
+                },
+                {
+                  "name": "Subdivision G--Assistance for protecting World Heritage properties",
+                  "children": [ {
+                    "name": "324. Commonwealth assistance for protecting declared World Heritage properties"
+                  }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Division 1A--Managing National Heritage places",
+              "children": [
+                {
+                  "name": "Subdivision A--Preliminary",
+                  "children": [ {
+                    "name": "324A. Simplified outline of this Division"
+                  }
+                  ]
+                },
+                {
+                  "name": "Subdivision B--The National Heritage List",
+                  "children": [
+                    {
+                      "name": "324C. The National Heritage List"
+                    },
+                    {
+                      "name": "324D. Meaning of National Heritage values"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision BA--Inclusion of places in the National Heritage List",
+                  "children": [
+                    {
+                      "name": "324E. Simplified outline"
+                    },
+                    {
+                      "name": "324F. Definitions"
+                    },
+                    {
+                      "name": "324G. Meaning of assessment period"
+                    },
+                    {
+                      "name": "324H. Minister may determine heritage themes for an assessment period"
+                    },
+                    {
+                      "name": "324J. Minister to invite nominations for each assessment period"
+                    },
+                    {
+                      "name": "324JA. Minister to give nominations to Australian Heritage Council"
+                    },
+                    {
+                      "name": "324JB. Australian Heritage Council to prepare proposed priority assessment list"
+                    },
+                    {
+                      "name": "324JC. Matters to be included in proposed priority assessment list"
+                    },
+                    {
+                      "name": "324JD. Statement to be given to Minister with proposed priority assessment list"
+                    },
+                    {
+                      "name": "324JE. The finalised priority assessment list"
+                    },
+                    {
+                      "name": "324JF. Publication of finalised priority assessment list"
+                    },
+                    {
+                      "name": "324JG. Australian Heritage Council to invite comments on places in finalised priority assessment list"
+                    },
+                    {
+                      "name": "324JH. Australian Heritage Council to assess places on finalised priority assessment list and give assessments to Minister"
+                    },
+                    {
+                      "name": "324JI. Time by which assessments to be provided to Minister"
+                    },
+                    {
+                      "name": "324JJ. Decision about inclusion of a place in the National Heritage List"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision BB--Inclusion of places in the National Heritage List",
+                  "children": [
+                    {
+                      "name": "324JK. Simplified outline"
+                    },
+                    {
+                      "name": "324JL. Minister may include place in National Heritage List if under threat"
+                    },
+                    {
+                      "name": "324JM. Minister to ask Australian Heritage Council for assessment"
+                    },
+                    {
+                      "name": "324JN. Publication of listing of place and inviting comments"
+                    },
+                    {
+                      "name": "324JO. Australian Heritage Council to assess place and give assessment to Minister"
+                    },
+                    {
+                      "name": "324JP. Time by which assessments to be provided to Minister"
+                    },
+                    {
+                      "name": "324JQ. Decision about place remaining in the National Heritage List"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision BC--Other provisions relating to the National Heritage List",
+                  "children": [
+                    {
+                      "name": "324JR. Co-ordination with Scientific Committee--Council undertaking assessment"
+                    },
+                    {
+                      "name": "324JS. Co-ordination with Scientific Committee--Council given assessment to Minister"
+                    },
+                    {
+                      "name": "324K. Listing process not affected by changing boundaries of a place"
+                    },
+                    {
+                      "name": "324L. Removal of places or National Heritage values from the National Heritage List"
+                    },
+                    {
+                      "name": "324M. Minister must consider advice of the Australian Heritage Council and public comments"
+                    },
+                    {
+                      "name": "324N. Specifying one or more additional National Heritage values for a National Heritage place"
+                    },
+                    {
+                      "name": "324P. National Heritage List must be publicly available"
+                    },
+                    {
+                      "name": "324Q. Certain information may be kept confidential"
+                    },
+                    {
+                      "name": "324R. Disclosure of Australian Heritage Council's assessments and advice"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision C--Management plans for National Heritage places in Commonwealth areas",
+                  "children": [
+                    {
+                      "name": "324S. Management plans for National Heritage places in Commonwealth areas"
+                    },
+                    {
+                      "name": "324T. Restriction on ability to make plans"
+                    },
+                    {
+                      "name": "324U. Compliance with plans by the Commonwealth and Commonwealth agencies"
+                    },
+                    {
+                      "name": "324V. Multiple plans in the same document"
+                    },
+                    {
+                      "name": "324W. Review of plans at least every 5 years"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision D--Management of National Heritage places in States and self-governing Territories",
+                  "children": [ {
+                    "name": "324X. Plans and Commonwealth responsibilities"
+                  }
+                  ]
+                },
+                {
+                  "name": "Subdivision E--The National Heritage management principles",
+                  "children": [ {
+                    "name": "324Y. National Heritage management principles"
+                  }
+                  ]
+                },
+                {
+                  "name": "Subdivision F--Obligations of Commonwealth agencies",
+                  "children": [
+                    {
+                      "name": "324Z. Obligation to assist the Minister and the Australian Heritage Council"
+                    },
+                    {
+                      "name": "324ZA. Protecting National Heritage values of places sold or leased"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision G--Assistance for protecting National Heritage places",
+                  "children": [ {
+                    "name": "324ZB. Commonwealth assistance for protecting National Heritage places"
+                  }
+                  ]
+                },
+                {
+                  "name": "Subdivision H--Reviewing and reporting on the National Heritage List",
+                  "children": [ {
+                    "name": "324ZC. Reviewing and reporting on the National Heritage List"
+                  }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Division 2--Managing wetlands of international importance",
+              "children": [
+                {
+                  "name": "Subdivision A--Simplified outline of this Division",
+                  "children": [ {
+                    "name": "325. Simplified outline of this Division"
+                  }
+                  ]
+                },
+                {
+                  "name": "Subdivision B--Seeking agreement on Ramsar designation",
+                  "children": [ {
+                    "name": "326. Commonwealth must seek agreement before designation"
+                  }
+                  ]
+                },
+                {
+                  "name": "Subdivision C--Notice of designation of wetland",
+                  "children": [ {
+                    "name": "327. Minister must give notice of designation of wetland etc."
+                  }
+                  ]
+                },
+                {
+                  "name": "Subdivision D--Plans for listed wetlands in Commonwealth areas",
+                  "children": [
+                    {
+                      "name": "328. Making plans"
+                    },
+                    {
+                      "name": "329. Notice of plans"
+                    },
+                    {
+                      "name": "330. Commonwealth compliance with plans"
+                    },
+                    {
+                      "name": "331. Review of plans every 5 years"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision E--Management of wetlands in States and self-governing Territories",
+                  "children": [
+                    {
+                      "name": "332. Application"
+                    },
+                    {
+                      "name": "333. Co-operating to prepare and implement plans"
+                    },
+                    {
+                      "name": "334. Commonwealth responsibilities"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision F--Australian Ramsar management principles",
+                  "children": [ {
+                    "name": "335. Australian Ramsar management principles"
+                  }
+                  ]
+                },
+                {
+                  "name": "Subdivision G--Assistance for protecting wetlands",
+                  "children": [ {
+                    "name": "336. Commonwealth assistance for protecting declared Ramsar wetlands"
+                  }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Division 3--Managing Biosphere reserves",
+              "children": [
+                {
+                  "name": "337. Definition of Biosphere reserve"
+                },
+                {
+                  "name": "338. Planning for management of Biosphere reserves"
+                },
+                {
+                  "name": "339. Commonwealth activities in Biosphere reserves"
+                },
+                {
+                  "name": "340. Australian Biosphere reserve management principles"
+                },
+                {
+                  "name": "341. Commonwealth assistance for protecting Biosphere reserves"
+                }
+              ]
+            },
+            {
+              "name": "Division 3A--Managing",
+              "children": [
+                {
+                  "name": "Subdivision A--Preliminary",
+                  "children": [
+                    {
+                      "name": "341A. Simplified outline of this Division"
+                    },
+                    {
+                      "name": "341B. Extension to places etc. outside the Australian jurisdiction"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision B--The Commonwealth Heritage List",
+                  "children": [
+                    {
+                      "name": "341C. The Commonwealth Heritage List"
+                    },
+                    {
+                      "name": "341D. Meaning of Commonwealth Heritage values"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision BA--Inclusion of places in the Commonwealth Heritage List",
+                  "children": [
+                    {
+                      "name": "341E. Simplified outline"
+                    },
+                    {
+                      "name": "341F. Definitions"
+                    },
+                    {
+                      "name": "341G. Meaning of assessment period"
+                    },
+                    {
+                      "name": "341H. Minister to invite nominations for each assessment period"
+                    },
+                    {
+                      "name": "341J. Minister to give nominations to Australian Heritage Council"
+                    },
+                    {
+                      "name": "341JA. Australian Heritage Council to prepare proposed priority assessment list"
+                    },
+                    {
+                      "name": "341JB. Matters to be included in proposed priority assessment list"
+                    },
+                    {
+                      "name": "341JC. Statement to be given to Minister with proposed priority assessment list"
+                    },
+                    {
+                      "name": "341JD. The finalised priority assessment list"
+                    },
+                    {
+                      "name": "341JE. Publication of finalised priority assessment list"
+                    },
+                    {
+                      "name": "341JF. Australian Heritage Council to invite comments on places in finalised priority assessment list"
+                    },
+                    {
+                      "name": "341JG. Australian Heritage Council to assess places on finalised priority assessment list and give assessments to Minister"
+                    },
+                    {
+                      "name": "341JH. Time by which assessments to be provided to Minister"
+                    },
+                    {
+                      "name": "341JI. Decision about inclusion of a place in the Commonwealth Heritage List"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision BB--Inclusion of places in the Commonwealth Heritage List",
+                  "children": [
+                    {
+                      "name": "341JJ. Simplified outline"
+                    },
+                    {
+                      "name": "341JK. Minister may include place in Commonwealth Heritage List if under threat"
+                    },
+                    {
+                      "name": "341JL. Minister to ask Australian Heritage Council for assessment"
+                    },
+                    {
+                      "name": "341JM. Publication of listing of place and inviting comments"
+                    },
+                    {
+                      "name": "341JN. Australian Heritage Council to assess place and give assessment to Minister"
+                    },
+                    {
+                      "name": "341JO. Time by which assessments to be provided to Minister"
+                    },
+                    {
+                      "name": "341JP. Decision about place remaining in the Commonwealth Heritage List"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision BC--Other provisions relating to the Commonwealth Heritage List",
+                  "children": [
+                    {
+                      "name": "341JQ. Co-ordination with Scientific Committee--Council undertaking assessment"
+                    },
+                    {
+                      "name": "341JR. Co-ordination with Scientific Committee--Council given assessment to Minister"
+                    },
+                    {
+                      "name": "341K. Listing process not affected by changing boundaries of a place"
+                    },
+                    {
+                      "name": "341L. Removal of places or Commonwealth Heritage values from the Commonwealth Heritage List"
+                    },
+                    {
+                      "name": "341M. Minister must consider advice of the Australian Heritage Council and public comments"
+                    },
+                    {
+                      "name": "341N. Specifying one or more additional Commonwealth Heritage values for a Commonwealth Heritage place"
+                    },
+                    {
+                      "name": "341P. Commonwealth Heritage List must be publicly available"
+                    },
+                    {
+                      "name": "341Q. Certain information may be kept confidential"
+                    },
+                    {
+                      "name": "341R. Disclosure of Australian Heritage Council's assessments and advice"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision C--Management plans for Commonwealth Heritage places",
+                  "children": [
+                    {
+                      "name": "341S. Management plans for Commonwealth Heritage places"
+                    },
+                    {
+                      "name": "341T. Endorsing management plans for Commonwealth Heritage places"
+                    },
+                    {
+                      "name": "341U. Restriction on ability to make plans"
+                    },
+                    {
+                      "name": "341V. Compliance with plans by the Commonwealth and Commonwealth agencies"
+                    },
+                    {
+                      "name": "341W. Multiple plans in the same document"
+                    },
+                    {
+                      "name": "341X. Review of plans at least every 5 years"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision D--The Commonwealth Heritage management principles",
+                  "children": [ {
+                    "name": "341Y. Commonwealth Heritage management principles"
+                  }
+                  ]
+                },
+                {
+                  "name": "Subdivision E--Obligations of Commonwealth agencies",
+                  "children": [
+                    {
+                      "name": "341Z. Obligation to assist the Minister and the Australian Heritage Council"
+                    },
+                    {
+                      "name": "341ZA. Heritage strategies"
+                    },
+                    {
+                      "name": "341ZB. Heritage assessments and registers"
+                    },
+                    {
+                      "name": "341ZC. Minimising adverse impact on heritage values"
+                    },
+                    {
+                      "name": "341ZE. Protecting Commonwealth Heritage values of places sold or leased"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision G--Assistance for protecting Commonwealth Heritage places",
+                  "children": [ {
+                    "name": "341ZG. Commonwealth assistance for protecting Commonwealth Heritage places"
+                  }
+                  ]
+                },
+                {
+                  "name": "Subdivision H--Reviewing and reporting on the Commonwealth Heritage List",
+                  "children": [ {
+                    "name": "341ZH. Reviewing and reporting on the Commonwealth Heritage List"
+                  }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Division 4--Commonwealth reserves",
+              "children": [
+                {
+                  "name": "Subdivision A--Simplified outline of this Division",
+                  "children": [ {
+                    "name": "342. Simplified outline of this Division"
+                  }
+                  ]
+                },
+                {
+                  "name": "Subdivision B--Declaring and revoking Commonwealth reserves",
+                  "children": [
+                    {
+                      "name": "343. Simplified outline of this Subdivision"
+                    },
+                    {
+                      "name": "344. Declaring Commonwealth reserves"
+                    },
+                    {
+                      "name": "345. Extent of Commonwealth reserve"
+                    },
+                    {
+                      "name": "345A. Commonwealth usage rights vest in Director"
+                    },
+                    {
+                      "name": "346. Content of Proclamation declaring Commonwealth reserve"
+                    },
+                    {
+                      "name": "347. Assigning Commonwealth reserves and zones to IUCN categories"
+                    },
+                    {
+                      "name": "348. Australian IUCN reserve management principles"
+                    },
+                    {
+                      "name": "350. Revocation and alteration of Commonwealth reserves"
+                    },
+                    {
+                      "name": "351. Report before making Proclamation"
+                    },
+                    {
+                      "name": "352. What happens to Director's usage rights when Commonwealth reserve is revoked"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision C--Activities in Commonwealth reserves",
+                  "children": [
+                    {
+                      "name": "353. Simplified outline of this Subdivision"
+                    },
+                    {
+                      "name": "354. Activities that may be carried on only under management plan"
+                    },
+                    {
+                      "name": "354A. Offences relating to activities that may only be carried on under management plan"
+                    },
+                    {
+                      "name": "355. Limits on mining operations in Commonwealth reserves"
+                    },
+                    {
+                      "name": "355A. Offence relating to mining operations"
+                    },
+                    {
+                      "name": "356. Regulations controlling activities relating to Commonwealth reserves"
+                    },
+                    {
+                      "name": "356A. Charges for activities in Commonwealth reserves"
+                    },
+                    {
+                      "name": "357. Managing Commonwealth reserves while a management plan is not in operation"
+                    },
+                    {
+                      "name": "358. Restriction on disposal of Director's interests in Commonwealth reserves"
+                    },
+                    {
+                      "name": "359. Prior usage rights relating to Commonwealth reserves continue to have effect"
+                    },
+                    {
+                      "name": "359A. Traditional use of Commonwealth reserves by indigenous persons"
+                    },
+                    {
+                      "name": "359B. Director's approval of actions and mining operations when a management plan is not in operation"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision D--Complying with management plans for Commonwealth reserves",
+                  "children": [
+                    {
+                      "name": "361. Simplified outline of this Subdivision"
+                    },
+                    {
+                      "name": "362. Commonwealth and Commonwealth agencies to comply with management plan for Commonwealth reserve"
+                    },
+                    {
+                      "name": "363. Resolving disagreement between land council and Director over implementation of plan"
+                    },
+                    {
+                      "name": "364. Resolving disagreement between Director and Board over implementation of plan"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision E--Approving management plans for Commonwealth reserves",
+                  "children": [
+                    {
+                      "name": "365. Simplified outline of this Subdivision"
+                    },
+                    {
+                      "name": "366. Obligation to prepare management plans for Commonwealth reserves"
+                    },
+                    {
+                      "name": "367. Content of a management plan for a Commonwealth reserve"
+                    },
+                    {
+                      "name": "368. Steps in preparing management plans for Commonwealth reserves"
+                    },
+                    {
+                      "name": "369. Resolving disagreements between Director and Board in planning process"
+                    },
+                    {
+                      "name": "370. Approval of management plans for Commonwealth reserves"
+                    },
+                    {
+                      "name": "371. Approved management plans are legislative instruments"
+                    },
+                    {
+                      "name": "372. Amendment and revocation of management plans for Commonwealth reserves"
+                    },
+                    {
+                      "name": "373. Expiry of management plans for Commonwealth reserves"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision F--Boards for Commonwealth reserves on indigenous people's land",
+                  "children": [
+                    {
+                      "name": "374. Simplified outline of this Subdivision"
+                    },
+                    {
+                      "name": "375. Application"
+                    },
+                    {
+                      "name": "376. Functions of a Board for a Commonwealth reserve"
+                    },
+                    {
+                      "name": "377. Minister must establish Board if land council or traditional owners agree"
+                    },
+                    {
+                      "name": "378. Altering the constitution of a Board or abolishing a Board"
+                    },
+                    {
+                      "name": "379. Appointment of Board members"
+                    },
+                    {
+                      "name": "379A. Fit and proper person"
+                    },
+                    {
+                      "name": "380. Terms and conditions"
+                    },
+                    {
+                      "name": "381. Remuneration"
+                    },
+                    {
+                      "name": "382. Termination of appointments of Board members"
+                    },
+                    {
+                      "name": "383. Procedure of a Board"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision G--Special rules for some Commonwealth reserves in the",
+                  "children": [
+                    {
+                      "name": "384. Simplified outline of this Subdivision"
+                    },
+                    {
+                      "name": "385. Activities in Commonwealth reserve without management plan"
+                    },
+                    {
+                      "name": "386. What are the Kakadu region and the Uluru region?"
+                    },
+                    {
+                      "name": "387. No mining operations in Kakadu National Park"
+                    },
+                    {
+                      "name": "388. Establishment and development of townships in the Kakadu region and Uluru region"
+                    },
+                    {
+                      "name": "389. Planning for townships"
+                    },
+                    {
+                      "name": "390. Special rules to protect Aboriginal interests in planning process"
+                    },
+                    {
+                      "name": "390A. Appointment of Northern Territory nominee to Board"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Division 5--Conservation zones",
+              "children": [
+                {
+                  "name": "390B. Simplified outline of this Division"
+                },
+                {
+                  "name": "390C. Object of this Division"
+                },
+                {
+                  "name": "390D. Proclamation of conservation zones"
+                },
+                {
+                  "name": "390E. Regulating activities generally"
+                },
+                {
+                  "name": "390F. Charges for activities in conservation zones"
+                },
+                {
+                  "name": "390G. Other laws and regulations made for this Division"
+                },
+                {
+                  "name": "390H. Prior usage rights relating to conservation zones continue to have effect"
+                },
+                {
+                  "name": "390J. Revoking and altering conservation zones"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CHAPTER 5A--The List of Overseas Places of Historic Significance to",
+      "children": [ {
+        "name": "PART 15A--THE LIST OF OVERSEAS PLACES OF HISTORIC SIGNIFICANCE TO AUSTRALIA",
+        "children": [
+          {
+            "name": "390K. The List of Overseas Places of Historic Significance to Australia"
+          },
+          {
+            "name": "390L. Inclusion of places in the List of Overseas Places of Historic Significance to Australia"
+          },
+          {
+            "name": "390M. Removal of places from the List of Overseas Places of Historic Significance to Australia or variation of statement of historic significance"
+          },
+          {
+            "name": "390N. Inviting comments from other Ministers before taking action"
+          },
+          {
+            "name": "390P. Minister may ask Australian Heritage Council for advice etc."
+          },
+          {
+            "name": "390Q. List of Overseas Places of Historic Significance to Australia to be publicly available"
+          },
+          {
+            "name": "390R. Disclosure of Australian Heritage Council's assessments and advice"
+          }
+        ]
+      }
+      ]
+    },
+    {
+      "name": "CHAPTER 5B--Declared commercial fishing activities",
+      "children": [ {
+        "name": "PART 15B--DECLARED COMMERCIAL FISHING ACTIVITIES",
+        "children": [
+          {
+            "name": "Division 1--Prohibition",
+            "children": [
+              {
+                "name": "390SA. Civil penalty--declared commercial fishing activities"
+              },
+              {
+                "name": "390SB. Offence--declared commercial fishing activities"
+              }
+            ]
+          },
+          {
+            "name": "Division 2--Declaring a commercial fishing activity",
+            "children": [
+              {
+                "name": "Subdivision A--What is a declared commercial fishing activity",
+                "children": [ {
+                  "name": "390SC. What is a declared commercial fishing activity?"
+                }
+                ]
+              },
+              {
+                "name": "Subdivision B--Interim declaration",
+                "children": [
+                  {
+                    "name": "390SD. Interim declaration"
+                  },
+                  {
+                    "name": "390SE. Consultation"
+                  }
+                ]
+              },
+              {
+                "name": "Subdivision C--Final declaration",
+                "children": [ {
+                  "name": "390SF. Final declaration"
+                }
+                ]
+              },
+              {
+                "name": "Subdivision D--Revoking declarations",
+                "children": [ {
+                  "name": "390SG. Revoking an interim or final declaration"
+                }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Division 3--Expert panel assessment of declared commercial fishing activity",
+            "children": [
+              {
+                "name": "390SH. Establishment of expert panel"
+              },
+              {
+                "name": "390SI. Terms and conditions"
+              },
+              {
+                "name": "390SJ. Procedure for assessment"
+              },
+              {
+                "name": "390SK. Timing of the report"
+              },
+              {
+                "name": "390SL. Publication of the report"
+              }
+            ]
+          },
+          {
+            "name": "Division 4--Sunsetting of this Part",
+            "children": [ {
+              "name": "390SM. Sunsetting of this Part"
+            }
+            ]
+          }
+        ]
+      }
+      ]
+    },
+    {
+      "name": "CHAPTER 6--Administration",
+      "children": [
+        {
+          "name": "PART 16--PRECAUTIONARY PRINCIPLE AND OTHER CONSIDERATIONS IN MAKING DECISIONS",
+          "children": [ {
+            "name": "391. Minister must consider precautionary principle in making decisions"
+          }
+          ]
+        },
+        {
+          "name": "PART 17--ENFORCEMENT",
+          "children": [
+            {
+              "name": "Division 1--Wardens, rangers and inspectors",
+              "children": [
+                {
+                  "name": "Subdivision A--Wardens and rangers",
+                  "children": [
+                    {
+                      "name": "392. Appointment of wardens and rangers"
+                    },
+                    {
+                      "name": "393. Arrangements for certain officers or employees to exercise powers etc. of wardens or rangers"
+                    },
+                    {
+                      "name": "394. Wardens ex officio"
+                    },
+                    {
+                      "name": "395. Identity cards"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision B--Inspectors",
+                  "children": [
+                    {
+                      "name": "396. Appointment of inspectors"
+                    },
+                    {
+                      "name": "397. Inspectors ex officio"
+                    },
+                    {
+                      "name": "398. Arrangements for State and Territory officers to be inspectors"
+                    },
+                    {
+                      "name": "399. Identity cards"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision BA--Exercise of powers of authorised officers outside the territorial sea",
+                  "children": [ {
+                    "name": "399A. Powers to be exercised consistently with UNCLOS"
+                  }
+                  ]
+                },
+                {
+                  "name": "Subdivision BB--Exercise of powers of authorised officers in relation to Great Barrier Reef Marine Park",
+                  "children": [ {
+                    "name": "399B. Certain powers to be exercised only by certain authorised officers"
+                  }
+                  ]
+                },
+                {
+                  "name": "Subdivision C--Miscellaneous",
+                  "children": [
+                    {
+                      "name": "400. Regulations may give wardens, rangers and inspectors extra powers, functions and duties"
+                    },
+                    {
+                      "name": "401. Impersonating authorised officers and rangers"
+                    },
+                    {
+                      "name": "402. Offences against authorised officers and rangers"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Division 2--Boarding of vessels etc",
+              "children": [
+                {
+                  "name": "403. Boarding of vessels etc. by authorised officers"
+                },
+                {
+                  "name": "404. Authorised officers to produce identification"
+                },
+                {
+                  "name": "405. Access to premises"
+                },
+                {
+                  "name": "406. Powers of authorised officers"
+                },
+                {
+                  "name": "406A. Searches under paragraph 406(1)(ba)"
+                },
+                {
+                  "name": "406AA. Taking things into possession"
+                },
+                {
+                  "name": "406B. Thing taken into possession is not a thing seized"
+                }
+              ]
+            },
+            {
+              "name": "Division 3--Monitoring of compliance",
+              "children": [
+                {
+                  "name": "407. Monitoring powers"
+                },
+                {
+                  "name": "407A. Operation of electronic equipment at premises"
+                },
+                {
+                  "name": "407B. Compensation for damage to electronic equipment"
+                },
+                {
+                  "name": "408. Monitoring searches with occupier's consent"
+                },
+                {
+                  "name": "409. Monitoring warrants"
+                },
+                {
+                  "name": "409A. Monitoring warrants by telephone or other electronic means"
+                },
+                {
+                  "name": "409B. Executing officer to be in possession of warrant"
+                },
+                {
+                  "name": "410. Details of monitoring warrant to be given to occupier etc."
+                },
+                {
+                  "name": "411. Occupier entitled to be present during search"
+                },
+                {
+                  "name": "412. Announcement before entry"
+                },
+                {
+                  "name": "412A. Other powers when on premises under monitoring warrant"
+                }
+              ]
+            },
+            {
+              "name": "Division 4--Search warrants",
+              "children": [
+                {
+                  "name": "413. When search warrants can be issued"
+                },
+                {
+                  "name": "414. Statements in warrants"
+                },
+                {
+                  "name": "415. Powers of magistrate"
+                },
+                {
+                  "name": "416. Warrants by telephone or other electronic means"
+                },
+                {
+                  "name": "417. The things that are authorised by a search warrant"
+                },
+                {
+                  "name": "418. Availability of assistance, and use of force, in executing a warrant"
+                },
+                {
+                  "name": "418A. Executing officer to be in possession of warrant"
+                },
+                {
+                  "name": "419. Details of warrant to be given to occupier etc."
+                },
+                {
+                  "name": "420. Specific powers available to person executing warrant"
+                },
+                {
+                  "name": "421. Use of equipment to examine or process things"
+                },
+                {
+                  "name": "422. Use of electronic equipment at premises"
+                },
+                {
+                  "name": "423. Compensation for damage to electronic equipment"
+                },
+                {
+                  "name": "424. Copies of seized things to be provided"
+                },
+                {
+                  "name": "425. Occupier entitled to be present during search"
+                },
+                {
+                  "name": "426. Receipts for things seized under warrant"
+                },
+                {
+                  "name": "427. Restrictions on personal searches"
+                },
+                {
+                  "name": "428. When a thing is in the possession of a person"
+                }
+              ]
+            },
+            {
+              "name": "Division 6--Arrest and related matters",
+              "children": [
+                {
+                  "name": "430. Powers of arrest"
+                },
+                {
+                  "name": "431. Power to conduct a frisk search of an arrested person"
+                },
+                {
+                  "name": "432. Power to conduct an ordinary search of an arrested person"
+                },
+                {
+                  "name": "433. Power to conduct search of arrested person's premises"
+                },
+                {
+                  "name": "433A. Interaction of this Division with Schedule 1"
+                }
+              ]
+            },
+            {
+              "name": "Division 6A--Provisions relating to detention of suspected foreign offenders",
+              "children": [ {
+                "name": "433B. Provisions relating to detention of suspected foreign offenders"
+              }
+              ]
+            },
+            {
+              "name": "Division 7--Miscellaneous provisions about searches, entry to premises, warrants etc",
+              "children": [
+                {
+                  "name": "434. Conduct of ordinary searches and frisk searches"
+                },
+                {
+                  "name": "435. Announcement before entry"
+                },
+                {
+                  "name": "436. Offence of making false statements in warrants"
+                },
+                {
+                  "name": "437. Offences relating to telephone warrants"
+                },
+                {
+                  "name": "438. Retention of things seized under Division 4 or 6"
+                },
+                {
+                  "name": "440. Law relating to legal professional privilege not affected"
+                },
+                {
+                  "name": "441. Other laws about search, arrest etc. not affected"
+                },
+                {
+                  "name": "442. Persons to assist authorised officers"
+                }
+              ]
+            },
+            {
+              "name": "Division 8--Power to search goods, baggage etc",
+              "children": [ {
+                "name": "443. Power to search goods, baggage etc."
+              }
+              ]
+            },
+            {
+              "name": "Division 8A--Power to ask questions about specimens",
+              "children": [ {
+                "name": "443A. Authorised officer may ask questions about the nature or origin of specimens"
+              }
+              ]
+            },
+            {
+              "name": "Division 9--Power to ask for names and addresses",
+              "children": [ {
+                "name": "444. Authorised person may ask for person's name and address"
+              }
+              ]
+            },
+            {
+              "name": "Division 10--Seizure and forfeiture etc",
+              "children": [
+                {
+                  "name": "Subdivision AA--Seizure of specimens involved in a contravention of Part 13A",
+                  "children": [
+                    {
+                      "name": "444A. Seizure of specimens involved in a contravention of Part 13A"
+                    },
+                    {
+                      "name": "444B. Notice about seizure"
+                    },
+                    {
+                      "name": "444C. Applications for return of specimen"
+                    },
+                    {
+                      "name": "444D. Court action for return of specimen"
+                    },
+                    {
+                      "name": "444E. Consignment of specimen with consent of owner"
+                    },
+                    {
+                      "name": "444G. Retention of specimen"
+                    },
+                    {
+                      "name": "444H. Forfeiture of specimen after end of retention period"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision AB--Seizure of things",
+                  "children": [
+                    {
+                      "name": "445. Seizure of things (other than specimens involved in a contravention of Part 13A)"
+                    },
+                    {
+                      "name": "446. Retention of things seized under this Subdivision"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision AC--Direction to deliver seizable items",
+                  "children": [ {
+                    "name": "447. Direction to deliver seizable items"
+                  }
+                  ]
+                },
+                {
+                  "name": "Subdivision B--Disposal of seized items",
+                  "children": [
+                    {
+                      "name": "449. Immediate disposal of seized items"
+                    },
+                    {
+                      "name": "449A. Disposal of seized items if Secretary cannot locate or identify person entitled etc."
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision BA--Release of seized items to owner etc",
+                  "children": [
+                    {
+                      "name": "449BA. Release of seized items to owner etc."
+                    },
+                    {
+                      "name": "449BB. How this Part applies in relation to things released conditionally"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision C--Forfeiture of seized items",
+                  "children": [
+                    {
+                      "name": "450. Court-ordered forfeiture: order by court dealing with offence proceedings"
+                    },
+                    {
+                      "name": "450A. Court-ordered forfeiture: other situations"
+                    },
+                    {
+                      "name": "450B. Forfeiture of seized items by consent etc."
+                    },
+                    {
+                      "name": "451. Dealings in forfeited items"
+                    },
+                    {
+                      "name": "452. Delivery of forfeited items to the Commonwealth"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision F--Keeping of organisms or specimens that have been seized",
+                  "children": [
+                    {
+                      "name": "453. Keeping of organisms or specimens retained under this Part"
+                    },
+                    {
+                      "name": "454. Recovery of costs of storing or keeping organisms or specimens"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision G--Rescuing things",
+                  "children": [
+                    {
+                      "name": "455. Rescuing things"
+                    },
+                    {
+                      "name": "456. Breaking or destroying things or documents to prevent seizure etc."
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision H--Seizure of cages or containers",
+                  "children": [
+                    {
+                      "name": "456AA. Power to seize cages or containers containing seizable things"
+                    },
+                    {
+                      "name": "456AB. Retention of seized cage or container"
+                    },
+                    {
+                      "name": "456AC. Retention of non-seizable things contained in seized cages or containers"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Division 12--Environmental audits",
+              "children": [
+                {
+                  "name": "458. Directed environmental audits"
+                },
+                {
+                  "name": "459. Appointment of auditor and carrying out of audit"
+                },
+                {
+                  "name": "460. Nature of directed environmental audit"
+                },
+                {
+                  "name": "461. Audit reports"
+                },
+                {
+                  "name": "462. Directed environmental audits do not affect other audit obligations"
+                }
+              ]
+            },
+            {
+              "name": "Division 13--Conservation orders",
+              "children": [
+                {
+                  "name": "Subdivision A--Simplified outline",
+                  "children": [ {
+                    "name": "463. Simplified outline of this Division"
+                  }
+                  ]
+                },
+                {
+                  "name": "Subdivision B--Making and reviewing conservation orders",
+                  "children": [
+                    {
+                      "name": "464. Minister may make conservation orders"
+                    },
+                    {
+                      "name": "465. Duration of conservation orders"
+                    },
+                    {
+                      "name": "466. Reviews of conservation orders"
+                    },
+                    {
+                      "name": "467. Publication of conservation orders"
+                    },
+                    {
+                      "name": "468. Application for reconsideration of conservation orders or decisions on review"
+                    },
+                    {
+                      "name": "469. Reconsideration of conservation orders and decisions on review"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision C--Complying with conservation orders",
+                  "children": [
+                    {
+                      "name": "470. Contravening conservation orders is an offence"
+                    },
+                    {
+                      "name": "471. Minister to consider proposed actions etc."
+                    },
+                    {
+                      "name": "472. Contents of notices of advice"
+                    },
+                    {
+                      "name": "473. Review by the Administrative Appeals Tribunal"
+                    },
+                    {
+                      "name": "474. Assistance in complying with conservation orders"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Division 14--Injunctions",
+              "children": [
+                {
+                  "name": "475. Injunctions for contravention of the Act"
+                },
+                {
+                  "name": "476. Injunctions for contraventions of conservation agreements"
+                },
+                {
+                  "name": "477. Discharge of injunctions"
+                },
+                {
+                  "name": "479. Certain considerations for granting injunctions not relevant"
+                },
+                {
+                  "name": "480. Powers conferred are in addition to other powers of the Court"
+                }
+              ]
+            },
+            {
+              "name": "Division 14A--Federal Court's power to make remediation orders",
+              "children": [
+                {
+                  "name": "480A. Remediation orders"
+                },
+                {
+                  "name": "480B. Discharge of remediation orders"
+                },
+                {
+                  "name": "480C. Powers conferred are in addition to other powers of the Court"
+                }
+              ]
+            },
+            {
+              "name": "Division 14B--Minister's power to make remediation determinations",
+              "children": [
+                {
+                  "name": "Subdivision A--Making of remediation determinations",
+                  "children": [
+                    {
+                      "name": "480D. Minister may make remediation determination"
+                    },
+                    {
+                      "name": "480E. Contents of a remediation determination"
+                    },
+                    {
+                      "name": "480F. Notifying owners and occupiers of land of proposed remediation determination"
+                    },
+                    {
+                      "name": "480G. Notifying that remediation determination has been made"
+                    },
+                    {
+                      "name": "480H. Duration of remediation determinations"
+                    },
+                    {
+                      "name": "480J. Ministerial reconsideration of remediation determinations"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision B--Federal Court may set aside remediation determination",
+                  "children": [ {
+                    "name": "480K. Applying to Federal Court to have remediation determination set aside"
+                  }
+                  ]
+                },
+                {
+                  "name": "Subdivision C--Complying with remediation determinations",
+                  "children": [
+                    {
+                      "name": "480L. Federal Court may order compliance with remediation determination"
+                    },
+                    {
+                      "name": "480M. Civil penalty for contravention of remediation determination"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision D--Variation or revocation of remediation determinations",
+                  "children": [ {
+                    "name": "480N. Variation or revocation of remediation determination"
+                  }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Division 15--Civil penalties",
+              "children": [
+                {
+                  "name": "Subdivision A--Obtaining an order for a civil penalty",
+                  "children": [
+                    {
+                      "name": "481. Federal Court may order person to pay pecuniary penalty for contravening civil penalty provision"
+                    },
+                    {
+                      "name": "482. What is a civil penalty provision?"
+                    },
+                    {
+                      "name": "483. Contravening a civil penalty provision is not an offence"
+                    },
+                    {
+                      "name": "484. Persons involved in contravening civil penalty provision"
+                    },
+                    {
+                      "name": "485. Recovery of a pecuniary penalty"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision B--Civil penalty proceedings and criminal proceedings",
+                  "children": [
+                    {
+                      "name": "486A. Civil proceedings after criminal proceedings"
+                    },
+                    {
+                      "name": "486B. Criminal proceedings during civil proceedings"
+                    },
+                    {
+                      "name": "486C. Criminal proceedings after civil proceedings"
+                    },
+                    {
+                      "name": "486D. Evidence given in proceedings for penalty not admissible in criminal proceedings"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision C--Enforceable undertakings relating to contraventions of Part 3 civil penalty provisions",
+                  "children": [
+                    {
+                      "name": "486DA. Acceptance of undertakings relating to contraventions of Part 3 civil penalty provisions"
+                    },
+                    {
+                      "name": "486DB. Enforcement of undertakings"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Division 15A--Notices to produce or attend",
+              "children": [
+                {
+                  "name": "486E. Application of Division"
+                },
+                {
+                  "name": "486F. Minister may require person to provide information etc."
+                },
+                {
+                  "name": "486G. Minister may require person to appear before Minister"
+                },
+                {
+                  "name": "486H. Persons to whom notices may not be given"
+                },
+                {
+                  "name": "486J. Self-incrimination"
+                }
+              ]
+            },
+            {
+              "name": "Division 16--Review of administrative decisions",
+              "children": [
+                {
+                  "name": "487. Extended standing for judicial review"
+                },
+                {
+                  "name": "488. Applications on behalf of unincorporated organisations"
+                }
+              ]
+            },
+            {
+              "name": "Division 17--Duty to provide accurate information",
+              "children": [
+                {
+                  "name": "489. Providing false or misleading information to obtain approval or permit"
+                },
+                {
+                  "name": "490. Providing false or misleading information in response to a condition on an approval or permit"
+                },
+                {
+                  "name": "491. Providing false or misleading information to authorised officer etc."
+                }
+              ]
+            },
+            {
+              "name": "Division 18--Liability of executive officers for corporations",
+              "children": [
+                {
+                  "name": "493. Who is an executive officer of a body corporate?"
+                },
+                {
+                  "name": "494. Civil penalties for executive officers of bodies corporate"
+                },
+                {
+                  "name": "495. Criminal liability of executive officers of bodies corporate"
+                },
+                {
+                  "name": "496. Did an executive officer take reasonable steps to prevent contravention?"
+                }
+              ]
+            },
+            {
+              "name": "Division 18A--Liability of landholders for other people's actions",
+              "children": [
+                {
+                  "name": "496A. Who is a landholder?"
+                },
+                {
+                  "name": "496B. Civil penalties for landholders"
+                },
+                {
+                  "name": "496C. Criminal liability of landholders"
+                },
+                {
+                  "name": "496D. Did a landholder take reasonable steps to prevent a contravention?"
+                }
+              ]
+            },
+            {
+              "name": "Division 19--Infringement notices",
+              "children": [ {
+                "name": "497. Infringement notices"
+              }
+              ]
+            },
+            {
+              "name": "Division 20--Publicising contraventions",
+              "children": [ {
+                "name": "498. Minister may publicise contraventions of this Act or the regulations"
+              }
+              ]
+            },
+            {
+              "name": "Division 21--Immunity of officers",
+              "children": [ {
+                "name": "498A. Immunity of officers and assistants"
+              }
+              ]
+            },
+            {
+              "name": "Division 22--Conduct of directors, employees and agents",
+              "children": [ {
+                "name": "498B. Conduct of directors, employees and agents"
+              }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PART 18--REMEDYING ENVIRONMENTAL DAMAGE",
+          "children": [
+            {
+              "name": "499. Commonwealth powers to remedy environmental damage"
+            },
+            {
+              "name": "500. Liability for loss or damage caused by contravention"
+            },
+            {
+              "name": "501. Other powers not affected"
+            }
+          ]
+        },
+        {
+          "name": "PART 19--ORGANISATIONS",
+          "children": [
+            {
+              "name": "Division 1--Establishment and functions of the Threatened Species Scientific Committee",
+              "children": [
+                {
+                  "name": "502. Establishment"
+                },
+                {
+                  "name": "503. Functions of the Committee"
+                }
+              ]
+            },
+            {
+              "name": "Division 2A--Indigenous Advisory Committee",
+              "children": [
+                {
+                  "name": "505A. Establishment"
+                },
+                {
+                  "name": "505B. Functions of the Committee"
+                }
+              ]
+            },
+            {
+              "name": "Division 2B--Establishment and functions of the Independent Expert Scientific Committee on Coal Seam Gas and Large Coal Mining Development",
+              "children": [
+                {
+                  "name": "505C. Establishment"
+                },
+                {
+                  "name": "505D. Functions of the Committee"
+                },
+                {
+                  "name": "505E. Declared States and Territories"
+                }
+              ]
+            },
+            {
+              "name": "Division 3--Members and procedures of Committees",
+              "children": [
+                {
+                  "name": "506. Application"
+                },
+                {
+                  "name": "507. Terms and conditions"
+                },
+                {
+                  "name": "508. Remuneration"
+                },
+                {
+                  "name": "509. Termination of appointments of Committee members"
+                },
+                {
+                  "name": "510. Procedure of a Committee"
+                }
+              ]
+            },
+            {
+              "name": "Division 4--Advisory committees",
+              "children": [
+                {
+                  "name": "511. Minister may establish advisory committees"
+                },
+                {
+                  "name": "512. Appointments"
+                },
+                {
+                  "name": "513. Members of advisory committees"
+                },
+                {
+                  "name": "514. Committee procedure"
+                }
+              ]
+            },
+            {
+              "name": "Division 5--Director of National Parks",
+              "children": [
+                {
+                  "name": "Subdivision A--Establishment, functions and powers",
+                  "children": [
+                    {
+                      "name": "514A. Continuation"
+                    },
+                    {
+                      "name": "514B. Functions"
+                    },
+                    {
+                      "name": "514C. Powers"
+                    },
+                    {
+                      "name": "514D. Requirements relating to functions and powers"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision B--Constitution of Director of National Parks",
+                  "children": [
+                    {
+                      "name": "514E. Constitution"
+                    },
+                    {
+                      "name": "514F. Appointment"
+                    },
+                    {
+                      "name": "514G. Acting appointments"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision C--Terms and conditions of appointment",
+                  "children": [
+                    {
+                      "name": "514H. Term of office"
+                    },
+                    {
+                      "name": "514J. Remuneration"
+                    },
+                    {
+                      "name": "514K. Outside employment"
+                    },
+                    {
+                      "name": "514M. Leave of absence"
+                    },
+                    {
+                      "name": "514N. Resignation"
+                    },
+                    {
+                      "name": "514P. Termination"
+                    },
+                    {
+                      "name": "514Q. Other terms and conditions"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision D--Australian National Parks Fund",
+                  "children": [
+                    {
+                      "name": "514R. Australian National Parks Fund"
+                    },
+                    {
+                      "name": "514S. Payments to Australian National Parks Fund"
+                    },
+                    {
+                      "name": "514T. Application of money"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision E--Accountability",
+                  "children": [
+                    {
+                      "name": "514U. Application of Public Governance, Performance and Accountability Act 2013"
+                    },
+                    {
+                      "name": "514V. Extra matters to be included in annual report"
+                    }
+                  ]
+                },
+                {
+                  "name": "Subdivision F--Miscellaneous",
+                  "children": [
+                    {
+                      "name": "514W. Exemption from taxation"
+                    },
+                    {
+                      "name": "514X. Changes in office of Director"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PART 19A--RECONSIDERATION OF FEES",
+          "children": [
+            {
+              "name": "514Y. Applications for reconsideration of fee"
+            },
+            {
+              "name": "514YA. Reconsideration of fee"
+            },
+            {
+              "name": "514YB. Deadline for reconsideration"
+            }
+          ]
+        },
+        {
+          "name": "PART 20--DELEGATION",
+          "children": [
+            {
+              "name": "515. Delegation"
+            },
+            {
+              "name": "515AA. Delegation by Minister in relation to Great Barrier Reef Marine Park"
+            },
+            {
+              "name": "515AB. Delegation by Secretary in relation to Great Barrier Reef Marine Park"
+            }
+          ]
+        },
+        {
+          "name": "PART 20A--PUBLICATION OF INFORMATION ON THE INTERNET",
+          "children": [ {
+            "name": "515A. Publication of information on the internet"
+          }
+          ]
+        },
+        {
+          "name": "PART 21--REPORTING",
+          "children": [
+            {
+              "name": "Division 1--Annual reports",
+              "children": [
+                {
+                  "name": "516. Annual report on operation of Act"
+                },
+                {
+                  "name": "516A. Annual reports to deal with environmental matters"
+                }
+              ]
+            },
+            {
+              "name": "Division 2--State of the environment reports",
+              "children": [ {
+                "name": "516B. State of the environment reports"
+              }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CHAPTER 7--Miscellaneous",
+      "children": [ {
+        "name": "PART 22--MISCELLANEOUS",
+        "children": [
+          {
+            "name": "517. Determinations of species"
+          },
+          {
+            "name": "517A. Exemption for activities that might harm particular species introduced into particular areas"
+          },
+          {
+            "name": "518. Non-compliance with time limits"
+          },
+          {
+            "name": "519. Compensation for acquisition of property"
+          },
+          {
+            "name": "520. Regulations"
+          },
+          {
+            "name": "520A. Statements about the application of the Act"
+          },
+          {
+            "name": "521. Fees and charges must not be taxes"
+          },
+          {
+            "name": "521A. Time does not run if all or part of fee remains unpaid"
+          },
+          {
+            "name": "522. Financial assistance etc. to be paid out of appropriated money"
+          },
+          {
+            "name": "522A. Review of operation of Act"
+          }
+        ]
+      }
+      ]
+    },
+    {
+      "name": "CHAPTER 8--Definitions",
+      "children": [ {
+        "name": "PART 23--DEFINITIONS",
+        "children": [
+          {
+            "name": "Division 1--Some definitions relating to particular topics",
+            "children": [
+              {
+                "name": "Subdivision A--Actions",
+                "children": [
+                  {
+                    "name": "523. Actions"
+                  },
+                  {
+                    "name": "524. Things that are not actions"
+                  },
+                  {
+                    "name": "524A. Provision of grant funding is not an action"
+                  }
+                ]
+              },
+              {
+                "name": "Subdivision B--Areas",
+                "children": [ {
+                  "name": "525. Commonwealth areas"
+                }
+                ]
+              },
+              {
+                "name": "Subdivision C--Entities",
+                "children": [ {
+                  "name": "526. Subsidiaries of bodies corporate"
+                }
+                ]
+              },
+              {
+                "name": "Subdivision D--Criminal law",
+                "children": [ {
+                  "name": "527. Convictions"
+                }
+                ]
+              },
+              {
+                "name": "Subdivision E--Specimens",
+                "children": [
+                  {
+                    "name": "527A. Specimens"
+                  },
+                  {
+                    "name": "527B. Breeding in captivity"
+                  },
+                  {
+                    "name": "527C. Artificial propagation"
+                  },
+                  {
+                    "name": "527D. Things represented to be CITES specimens"
+                  }
+                ]
+              },
+              {
+                "name": "Subdivision F--Impacts",
+                "children": [ {
+                  "name": "527E. Meaning of impact"
+                }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Division 2--General list of definitions",
+            "children": [ {
+              "name": "528. Definitions"
+            }
+            ]
+          }
+        ]
+      }
+      ]
+    }
+  ]
+}
+
+
