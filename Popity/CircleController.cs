@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine.UI;
@@ -18,24 +18,40 @@ public class CircleController : MonoBehaviour {
 	public float force;
 	public float radius;
 
+	public float pitchRangeBottom = 0.2f; // lowest pitch that a bubble pop sound can produce
+	public float pitchRangeTop = 2.0f; // highest pitch a bubble pop sound can produce
+	public float shrinkScaleFactor = 0.9f;  // determines how fast a popped bubble shrinks
+	public float popDelay = 0.1f; // determines the gap between bubble pops from a single touch event
+	public float baseCircleRadius = 2.56f; // the radius of a bubble before it is scaled randomly
+	public float popPropagationBuffer = 0.7f; // determines how far apart bubbles need to be to be considered touching. 
+	public float popVolume = 0.7f; // volume of audio source for pop sound
+	public float destroyBubbleDelay = 2.0f; // how long before a bubble game object is actually removed after being 'popped' 
+
 	public void Setup(Sprite s, Color c, List<GameObject> l){
 		GetComponentInChildren<SpriteRenderer> ().sprite = s;
 		SetColor(c);
 		list = l;
 		audio = gameObject.AddComponent<AudioSource> ();
-		audio.pitch = Random.Range(0.2f, 2.0f); 
+		audio.pitch = Random.Range(pitchRangeBottom, pitchRangeTop);
 	}
 
 
 	void Start () {
 		spriteRenderer = gameObject.GetComponent<SpriteRenderer> ();
-		touchingList = new List<GameObject>{ gameObject }; // initial list of circles touching this one, initialised with just this game object
+		touchingList = new List<GameObject>{ gameObject }; // list of circles touching this one, initialised with just this game object
 
 	}
 
+	/*
+	 * on each iteration:
+	 * 	- scale circle if it's supposed to be shrinking
+	 * 	- handle user input and;
+	 * 		- get the list of touching bubbles
+	 * 		- shedule pop for each bubble in the touching list
+	 */ 
 	void Update () {
 		if (shrinking) {
-			transform.localScale = new Vector3 (transform.localScale.x * 0.9f, transform.localScale.y * 0.9f, transform.localScale.z * 0.9f);
+			transform.localScale = new Vector3 (transform.localScale.x * shrinkScaleFactor, transform.localScale.y * shrinkScaleFactor, transform.localScale.z * shrinkScaleFactor);
 
 		}
 		
@@ -52,7 +68,7 @@ public class CircleController : MonoBehaviour {
 					GameManager.manager.UpdatePopAchievements (touchingList.Count);
 					GameManager.manager.IncrementScore (touchingList.Count * (touchingList.Count - 1));
 					for (int i = 0; i < touchingList.Count; i++) {
-						touchingList [i].GetComponentInChildren<CircleController> ().ScheduleDestroy (i * 0.1f);
+						touchingList [i].GetComponentInChildren<CircleController> ().ScheduleDestroy (i * popDelay);
 					}
 
 				}
@@ -62,13 +78,18 @@ public class CircleController : MonoBehaviour {
 	
 	}
 
+	/*
+	 * Check recursively for bubbles touching this one, or bubbles touching bubbles touching this one, etc... 
+	 *
+	 */
 
 	private List<GameObject> GetTouchingList(List<GameObject> list, List<GameObject> touchingList){
 		List<GameObject> tmpList = new List<GameObject>();
 
 		foreach (GameObject circle in touchingList) {
 			foreach (GameObject candidate in list) {
-				if(circle.GetInstanceID() != candidate.GetInstanceID() && Vector3.Distance(circle.transform.position, candidate.transform.position) < ((2.56f * circle.transform.localScale.x) + (2.56f * candidate.transform.localScale.x) + 0.07f) ){
+				if(circle.GetInstanceID() != candidate.GetInstanceID() && Vector3.Distance(circle.transform.position, candidate.transform.position) 
+					< ((baseCircleRadius * circle.transform.localScale.x) + (baseCircleRadius * candidate.transform.localScale.x) + popPropagationBuffer) ){
 					
 					tmpList.Add (candidate);
 				}
@@ -100,29 +121,39 @@ public class CircleController : MonoBehaviour {
 		list = l;
 	}
 
+	/*
+	 * handle the process of popping blubbles by:
+	 * 	- adding a repulsive force to surrounding bubbles
+	 *  - playing a pop sound
+	 *  - set the bubbles shrinking property to true
+	 *  - eject particles
+	 *  - schedule actual destroy of the game object
+	 */
+
 	void destroy(){
 		Collider2D[] colliders = Physics2D.OverlapCircleAll (transform.position, radius);
 		foreach(Collider2D c in colliders){
-			if (c.attachedRigidbody == null)
+			if (c.attachedRigidbody == null) // i.e. we only want to blow up other circles
 				continue;
 
 			AddExplosionForce (c.attachedRigidbody, force, transform.position, radius);
 		}
 		if(GameManager.manager.soundOn){
-			audio.PlayOneShot (popfizzle, 0.7f);
+			audio.PlayOneShot (popfizzle, popVolume);
 			print (audio.pitch);
 		}
 		shrinking = true;
 		gameObject.GetComponentInChildren<ParticleSystem> ().Play ();
 		list.Remove (gameObject);
-		Invoke("DestroyThis", 2.0f);
+		Invoke("DestroyThis", destroyBubbleDelay);
 	}
 
+	// called by update with a time based on distance from touched bubble.
 	void ScheduleDestroy(float time){
 		Invoke ("destroy", time);
 	}
 
-
+	// remove the game object, called by destroy()
 	void DestroyThis(){
 		Destroy (gameObject);
 	}
